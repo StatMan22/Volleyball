@@ -1,0 +1,2480 @@
+"gameid","team1","team2","team1sets","team2sets","team1win","team2win"
+6173794,"Minnesota","TCU",3,1,1,0
+6173795,"Minnesota","Baylor",3,0,1,0
+6173796,"Minnesota","Texas",1,3,0,1
+6173797,"Florida","Minnesota",3,0,1,0
+6173798,"Oregon","Minnesota",2,3,0,1
+6173799,"Stanford","Minnesota",3,1,1,0
+6173800,"Minnesota","Creighton",2,3,0,1
+6173801,"Iowa","Minnesota",2,3,0,1
+6173802,"Nebraska","Minnesota",3,0,1,0
+6173803,"Minnesota","Michigan",3,0,1,0
+6173806,"Minnesota","High Point",3,1,1,0
+6173807,"Minnesota","Penn St.",1,3,0,1
+6173822,"Northern Ky.","Ohio St.",0,3,0,1
+6173823,"Oregon","Ohio St.",3,1,1,0
+6173824,"Texas","Ohio St.",3,1,1,0
+6173825,"Baylor","Ohio St.",3,2,1,0
+6173826,"Iowa","Ohio St.",0,3,0,1
+6173827,"Ohio St.","Wisconsin",0,3,0,1
+6173829,"Indiana","New Hampshire",3,0,1,0
+6173830,"Indiana","Radford",3,0,1,0
+6173831,"Indiana","Southern Ind.",3,0,1,0
+6173832,"Long Beach St.","Indiana",3,1,1,0
+6173833,"UCLA","Indiana",3,1,1,0
+6173834,"Washington","Indiana",3,0,1,0
+6173835,"Indiana","Valparaiso",3,0,1,0
+6173836,"Lindenwood","Indiana",0,3,0,1
+6173837,"Austin Peay","Indiana",0,3,0,1
+6173838,"Indiana","Stetson",3,0,1,0
+6173839,"Miami (FL)","Indiana",2,3,0,1
+6173840,"Indiana","Jacksonville",3,0,1,0
+6173841,"FIU","Indiana",0,3,0,1
+6173842,"Indiana","Illinois",3,1,1,0
+6173843,"Wisconsin","Indiana",3,0,1,0
+6173844,"Indiana","Iowa",3,0,1,0
+6173845,"Indiana","Nebraska",1,3,0,1
+6173861,"Ohio St.","Bowling Green",3,2,1,0
+6173862,"ETSU","Ohio St.",0,3,0,1
+6173863,"Ohio St.","Georgia Tech",1,3,0,1
+6173864,"Ohio St.","Georgia Tech",1,3,0,1
+6173865,"Stanford","Ohio St.",3,0,1,0
+6173866,"Nebraska","Ohio St.",3,0,1,0
+6173879,"Wisconsin","Tennessee",3,2,1,0
+6173880,"Wisconsin","Miami (FL)",3,0,1,0
+6173884,"Arkansas","Michigan",3,0,1,0
+6173886,"Arkansas","Wisconsin",2,3,0,1
+6173887,"Arkansas","Wisconsin",0,3,0,1
+6173888,"Wisconsin","Arizona",3,0,1,0
+6173889,"Marquette","Wisconsin",1,3,0,1
+6173890,"Florida","Wisconsin",2,3,0,1
+6173891,"Northwestern","Wisconsin",0,3,0,1
+6173893,"Wisconsin","Baylor",3,1,1,0
+6173894,"Wisconsin","TCU",3,0,1,0
+6173905,"Boston College","Michigan",3,0,1,0
+6173906,"Michigan","Sacred Heart",3,0,1,0
+6173907,"Michigan","Western Mich.",0,3,0,1
+6173908,"Colorado St.","Michigan",3,2,1,0
+6173909,"Michigan","North Carolina",3,0,1,0
+6173910,"Michigan","Duke",1,3,0,1
+6173911,"Bowling Green","Michigan",3,2,1,0
+6173912,"Michigan","Bowling Green",2,3,0,1
+6173913,"Michigan","Michigan St.",0,3,0,1
+6173914,"Maryland","Michigan",3,0,1,0
+6173926,"Marquette","Purdue",2,3,0,1
+6173927,"Purdue","Duke",3,1,1,0
+6173928,"Purdue","Creighton",0,3,0,1
+6173929,"Purdue","Loyola Chicago",2,3,0,1
+6173930,"Kansas","Purdue",2,3,0,1
+6173931,"Purdue","SMU",3,1,1,0
+6173932,"Purdue","UCF",3,0,1,0
+6173933,"Purdue","Southern California",1,3,0,1
+6173934,"Maryland","Purdue",1,3,0,1
+6173935,"Rutgers","Purdue",0,3,0,1
+6173936,"Purdue","Nebraska",2,3,0,1
+6173946,"Purdue","Kentucky",3,2,1,0
+6173947,"Oregon","Northwestern",3,0,1,0
+6173948,"Northwestern","San Diego",3,1,1,0
+6173949,"Northeastern","Northwestern",0,3,0,1
+6173950,"Fairfield","Northwestern",0,3,0,1
+6173951,"Northwestern","Illinois St.",3,0,1,0
+6173953,"Northwestern","Northern Colo.",3,0,1,0
+6173954,"Northwestern","UIC",2,3,0,1
+6173955,"Northwestern","Penn St.",0,3,0,1
+6173967,"Northwestern","Yale",3,0,1,0
+6173968,"Michigan St.","Belmont",3,0,1,0
+6173969,"Arkansas","Michigan St.",3,0,1,0
+6173970,"Michigan St.","Tulsa",1,3,0,1
+6173971,"Central Ark.","Michigan St.",0,3,0,1
+6173972,"Michigan St.","Syracuse",3,0,1,0
+6173973,"Michigan St.","Delaware St.",3,0,1,0
+6173974,"Michigan St.","Duke",0,3,0,1
+6173975,"Illinois","Michigan St.",3,2,1,0
+6173979,"Michigan St.","North Carolina",3,1,1,0
+6173980,"UConn","Michigan St.",0,3,0,1
+6173981,"Brown","Michigan St.",1,3,0,1
+6173982,"Binghamton","Michigan St.",1,3,0,1
+6173989,"Maryland","Old Dominion",3,0,1,0
+6173990,"Navy","Maryland",3,0,1,0
+6173991,"Maryland","Coastal Carolina",3,2,1,0
+6173992,"Maryland","Le Moyne",3,0,1,0
+6173993,"FIU","Maryland",1,3,0,1
+6173994,"Miami (FL)","Maryland",3,1,1,0
+6173995,"FGCU","Maryland",2,3,0,1
+6173996,"Maryland","Lamar University",3,0,1,0
+6173997,"Utah Valley","Maryland",1,3,0,1
+6173998,"Maryland","Princeton",3,0,1,0
+6173999,"Howard","Maryland",0,3,0,1
+6174000,"Fla. Atlantic","Maryland",0,3,0,1
+6174002,"Rutgers","Maryland",1,3,0,1
+6174006,"Iowa","Kent St.",3,2,1,0
+6174007,"Iowa","Central Mich.",3,1,1,0
+6174008,"Illinois","Iowa",3,0,1,0
+6174013,"Cal Poly","Iowa",1,3,0,1
+6174014,"Syracuse","Iowa",0,3,0,1
+6174015,"Cornell","Iowa",0,3,0,1
+6174016,"Iowa","Middle Tenn.",3,0,1,0
+6174017,"Iowa","South Dakota St.",3,0,1,0
+6174018,"Iowa","Iowa St.",2,3,0,1
+6174019,"Iowa","Missouri St.",3,1,1,0
+6174020,"Iowa","Grand Canyon",0,3,0,1
+6174022,"Sacramento St.","Iowa",3,0,1,0
+6174023,"Iowa","Nevada",2,3,0,1
+6174024,"Nebraska","Utah St.",3,0,1,0
+6174025,"Nebraska","Kentucky",3,1,1,0
+6174029,"NIU","Illinois",1,3,0,1
+6174030,"UIC","Illinois",1,3,0,1
+6174031,"Notre Dame","Illinois",3,0,1,0
+6174032,"Bradley","Illinois",1,3,0,1
+6174033,"Illinois","Southern California",2,3,0,1
+6174034,"UCF","Illinois",3,2,1,0
+6174035,"Illinois","Penn St.",0,3,0,1
+6174037,"Nebraska","Lipscomb",3,0,1,0
+6174038,"Nebraska","SMU",3,0,1,0
+6174039,"Nebraska","Omaha",3,0,1,0
+6174040,"Kansas St.","Nebraska",0,3,0,1
+6174041,"Nebraska","Creighton",3,1,1,0
+6174042,"Nebraska","Long Beach St.",3,0,1,0
+6174043,"Stanford","Nebraska",1,3,0,1
+6174047,"Illinois","Valparaiso",3,0,1,0
+6174048,"Illinois","Wichita St.",2,3,0,1
+6174049,"Illinois","Illinois St.",3,1,1,0
+6174050,"Illinois","Oklahoma",0,3,0,1
+6174052,"Florida","Penn St.",3,1,1,0
+6174053,"Penn St.","James Madison",3,1,1,0
+6174054,"Temple","Penn St.",0,3,0,1
+6174055,"Louisville","Penn St.",3,0,1,0
+6174056,"Penn St.","Seton Hall",3,1,1,0
+6174057,"N.C. A&T","Rutgers",0,3,0,1
+6174058,"Rutgers","Winthrop",3,0,1,0
+6174059,"Rutgers","Howard",3,0,1,0
+6174060,"Morgan St.","Rutgers",0,3,0,1
+6174061,"Columbia","Rutgers",1,3,0,1
+6174062,"Rutgers","Princeton",2,3,0,1
+6174064,"Penn St.","Georgia Tech",1,3,0,1
+6174065,"Penn St.","Western Ky.",3,1,1,0
+6174066,"Penn St.","Colgate",3,0,1,0
+6174067,"Penn St.","UMBC",3,0,1,0
+6174068,"Penn St.","Rutgers",3,0,1,0
+6174069,"NC State","Rutgers",3,2,1,0
+6174070,"Rider","Rutgers",1,3,0,1
+6174071,"Rutgers","Marist",3,0,1,0
+6174072,"Georgia St.","South Carolina St.",3,0,1,0
+6174073,"Oklahoma","Gonzaga",3,0,1,0
+6174074,"Sam Houston","Nicholls",3,1,1,0
+6174075,"UTEP","Washington",3,2,1,0
+6174076,"Tarleton St.","Prairie View",2,3,0,1
+6174077,"Memphis","Alcorn",3,0,1,0
+6174078,"Arizona","UC Davis",1,3,0,1
+6174079,"CSU Bakersfield","Eastern Wash.",3,0,1,0
+6174080,"UTSA","Texas Southern",3,0,1,0
+6174081,"Chattanooga","New Orleans",3,0,1,0
+6174082,"Buffalo","Austin Peay",3,0,1,0
+6174083,"Furman","Quinnipiac",3,2,1,0
+6174084,"FDU","Kansas City",1,3,0,1
+6174085,"Bellarmine","Tennessee Tech",0,3,0,1
+6174086,"Elon","Coastal Carolina",0,3,0,1
+6174087,"Marquette","Western Ky.",1,3,0,1
+6174088,"Marshall","The Citadel",0,3,0,1
+6174089,"North Ala.","Louisiana Tech",3,2,1,0
+6174090,"Texas St.","Marist",3,0,1,0
+6174091,"Jackson St.","SFA",0,3,0,1
+6174092,"Saint Louis","Mississippi Val.",3,0,1,0
+6174093,"Saint Louis","Mercer",3,2,1,0
+6174094,"Toledo","Northeastern",3,2,1,0
+6174095,"Texas Tech","Houston Christian",3,2,1,0
+6174096,"Youngstown St.","Canisius",3,2,1,0
+6174097,"Army West Point","Fairfield",2,3,0,1
+6174098,"Southeast Mo. St.","Evansville",3,0,1,0
+6174099,"Morehead St.","Stonehill",3,0,1,0
+6174100,"Syracuse","Navy",0,3,0,1
+6174101,"Coppin St.","McNeese",3,0,1,0
+6174102,"Valparaiso","Akron",3,0,1,0
+6174103,"Lindenwood","Oakland",3,2,1,0
+6174104,"Seton Hall","New Mexico",0,3,0,1
+6174105,"South Dakota St.","Green Bay",0,3,0,1
+6174106,"Cleveland St.","Murray St.",3,2,1,0
+6174107,"Miami (OH)","Samford",0,3,0,1
+6174108,"Eastern Mich.","SIUE",1,3,0,1
+6174109,"Northwestern St.","Eastern Ky.",1,3,0,1
+6174110,"A&M-Corpus Christi","Portland",1,3,0,1
+6174111,"Arkansas St.","Little Rock",3,0,1,0
+6174112,"Utah Valley","NC State",1,3,0,1
+6174113,"Temple","Iona",3,0,1,0
+6174114,"Wyoming","Winthrop",3,0,1,0
+6174115,"Charlotte","Charleston So.",3,0,1,0
+6174116,"Butler","Kent St.",3,0,1,0
+6174117,"UIC","St. Thomas (MN)",3,2,1,0
+6174118,"Fla. Atlantic","Holy Cross",3,0,1,0
+6174119,"North Dakota","Kennesaw St.",0,3,0,1
+6174120,"Davidson","Le Moyne",3,0,1,0
+6174121,"UC San Diego","Fresno St.",3,1,1,0
+6174122,"Bucknell","Stony Brook",0,3,0,1
+6174123,"Manhattan","Saint Mary's (CA)",0,3,0,1
+6174124,"East Carolina","UNC Greensboro",3,0,1,0
+6174125,"Belmont","Saint Francis (PA)",2,3,0,1
+6174126,"Santa Clara","CSUN",3,2,1,0
+6174127,"App State","William & Mary",3,0,1,0
+6174128,"Virginia Tech","Morgan St.",3,0,1,0
+6174129,"Southeastern La.","Grambling",3,0,1,0
+6174130,"Montana St.","Oregon St.",3,2,1,0
+6174131,"Alabama","Mississippi Val.",3,0,1,0
+6174132,"Weber St.","Utah Tech",3,2,1,0
+6174133,"Missouri St.","Tex. A&M-Commerce",3,0,1,0
+6174134,"Ark.-Pine Bluff","UIW",0,3,0,1
+6174135,"Eastern Ill.","ULM",3,0,1,0
+6174136,"UNC Asheville","Alabama A&M",3,0,1,0
+6174137,"New Hampshire","Southern Ind.",3,1,1,0
+6174138,"Central Ark.","Colgate",1,3,0,1
+6174139,"Wright St.","Washington St.",0,3,0,1
+6174140,"USC Upstate","Queens (NC)",3,1,1,0
+6174141,"Northeastern","Grand Canyon",0,3,0,1
+6174142,"Bethune-Cookman","Marshall",0,3,0,1
+6174143,"Ohio","UMBC",2,3,0,1
+6174144,"Wichita St.","Notre Dame",2,3,0,1
+6174145,"Idaho","Seattle U",0,3,0,1
+6174146,"Nicholls","Portland",3,1,1,0
+6174147,"BYU","Pittsburgh",3,1,1,0
+6174149,"Cal St. Fullerton","San Diego St.",1,3,0,1
+6174150,"North Carolina","Pacific",3,2,1,0
+6174151,"Alabama A&M","N.C. Central",3,2,1,0
+6174152,"McNeese","Jacksonville St.",2,3,0,1
+6174153,"Florida St.","Western Caro.",3,0,1,0
+6174154,"Providence","Southern Utah",1,3,0,1
+6174155,"Tennessee Tech","William & Mary",2,3,0,1
+6174156,"Central Mich.","Southern Ill.",1,3,0,1
+6174157,"Xavier","Indiana St.",3,1,1,0
+6174158,"Ole Miss","St. John's (NY)",1,3,0,1
+6174159,"NJIT","Delaware St.",0,3,0,1
+6174160,"Bowling Green","ETSU",3,0,1,0
+6174161,"San Francisco","Seton Hall",0,3,0,1
+6174162,"UNI","Villanova",2,3,0,1
+6174163,"UT Martin","Marist",3,1,1,0
+6174164,"Stony Brook","Gardner-Webb",0,3,0,1
+6174165,"Tulane","Jackson St.",3,0,1,0
+6174166,"Kansas","Pepperdine",3,0,1,0
+6174167,"Louisiana","Northwestern St.",3,0,1,0
+6174168,"Mercer","Mississippi Val.",3,0,1,0
+6174169,"Creighton","Loyola Chicago",3,0,1,0
+6174170,"Presbyterian","Stetson",1,3,0,1
+6174171,"South Carolina St.","Chattanooga",0,3,0,1
+6174172,"Lipscomb","SMU",0,3,0,1
+6174173,"Santa Clara","California Baptist",3,1,1,0
+6174174,"Long Beach St.","Texas",3,1,1,0
+6174175,"Duquesne","Saint Peter's",3,0,1,0
+6174176,"Austin Peay","Florida A&M",3,1,1,0
+6174177,"Southern Ind.","Radford",3,0,1,0
+6174178,"Drake","Marquette",2,3,0,1
+6174179,"Grambling","UTEP",0,3,0,1
+6174180,"Little Rock","North Ala.",0,3,0,1
+6174181,"Alcorn","Miami (OH)",0,3,0,1
+6174182,"Utah Tech","Saint Mary's (CA)",1,3,0,1
+6174183,"Texas Southern","Tex. A&M-Commerce",0,3,0,1
+6174184,"Navy","UCF",1,3,0,1
+6174185,"Morgan St.","Furman",0,3,0,1
+6174186,"FDU","Holy Cross",1,3,0,1
+6174187,"Le Moyne","West Virginia",0,3,0,1
+6174188,"Oral Roberts","A&M-Corpus Christi",1,3,0,1
+6174189,"Stonehill","USC Upstate",0,3,0,1
+6174190,"UIW","Prairie View",3,0,1,0
+6174191,"James Madison","High Point",3,2,1,0
+6174192,"Delaware","Loyola Maryland",3,1,1,0
+6174193,"Eastern Wash.","Southern Utah",2,3,0,1
+6174194,"Akron","ULM",2,3,0,1
+6174195,"Charleston So.","Coastal Carolina",3,2,1,0
+6174196,"Lindenwood","St. Thomas (MN)",3,1,1,0
+6174197,"Denver","North Florida",1,3,0,1
+6174198,"Murray St.","Tennessee St.",3,2,1,0
+6174199,"Lamar University","FIU",0,3,0,1
+6174200,"Purdue Fort Wayne","Oklahoma",1,3,0,1
+6174201,"IUPUI","Eastern Mich.",3,2,1,0
+6174202,"Central Conn. St.","Fairfield",1,3,0,1
+6174203,"Canisius","Saint Francis (PA)",3,1,1,0
+6174204,"Arkansas St.","Louisiana Tech",3,0,1,0
+6174205,"Howard","Georgetown",1,3,0,1
+6174206,"UNCW","Fordham",0,3,0,1
+6174207,"Utah Valley","Utah",3,1,1,0
+6174208,"Ga. Southern","East Carolina",3,0,1,0
+6174209,"Western Ill.","Cleveland St.",0,3,0,1
+6174210,"Hofstra","Siena",3,0,1,0
+6174211,"South Alabama","SFA",3,1,1,0
+6174212,"Louisville","Troy",3,0,1,0
+6174213,"American","George Washington",3,0,1,0
+6174214,"Liberty","Bucknell",3,0,1,0
+6174215,"Rice","Southern Miss.",3,1,1,0
+6174216,"South Fla.","Georgia Tech",0,3,0,1
+6174217,"Western Mich.","Milwaukee",3,1,1,0
+6174218,"Auburn","Coppin St.",3,1,1,0
+6174219,"South Carolina","Towson",0,3,0,1
+6174220,"Missouri","Illinois St.",3,1,1,0
+6174221,"UNC Asheville","UMES",2,3,0,1
+6174222,"Cincinnati","Alabama St.",3,0,1,0
+6174223,"Georgia St.","New Orleans",3,1,1,0
+6174224,"Northern Colo.","Stanford",0,3,0,1
+6174225,"NIU","Chicago St.",2,3,0,1
+6174226,"North Texas","Campbell",3,2,1,0
+6174227,"North Dakota St.","UC Riverside",3,1,1,0
+6174228,"Bryant","UT Arlington",1,3,0,1
+6174229,"LSU","UCLA",3,2,1,0
+6174230,"App State","Bellarmine",3,0,1,0
+6174231,"Bradley","SIUE",3,0,1,0
+6174232,"Iowa St.","South Dakota",3,0,1,0
+6174233,"Air Force","Rhode Island",3,0,1,0
+6174234,"Georgia","UConn",3,0,1,0
+6174235,"Southeastern La.","Washington",1,3,0,1
+6174236,"Tennessee","Texas St.",3,0,1,0
+6174237,"Old Dominion","VCU",3,1,1,0
+6174238,"Virginia","Rider",3,0,1,0
+6174239,"Virginia Tech","Quinnipiac",3,0,1,0
+6174240,"Clemson","Middle Tenn.",3,1,1,0
+6174241,"Dayton","Western Ky.",3,0,1,0
+6174242,"UIC","Oakland",3,0,1,0
+6174243,"Mississippi St.","Eastern Ky.",3,0,1,0
+6174244,"UC Santa Barbara","New Mexico St.",3,0,1,0
+6174245,"Texas Tech","Wichita St.",3,1,1,0
+6174246,"Eastern Ill.","Valparaiso",3,2,1,0
+6174247,"San Jose St.","Jacksonville",3,0,1,0
+6174248,"Sacramento St.","Nevada",3,2,1,0
+6174249,"Memphis","Samford",3,2,1,0
+6174250,"Wake Forest","Toledo",3,0,1,0
+6174251,"Montana","UTRGV",0,3,0,1
+6174252,"Col. of Charleston","Davidson",1,3,0,1
+6174253,"Boise St.","Idaho St.",3,0,1,0
+6174254,"Bethune-Cookman","The Citadel",0,3,0,1
+6174255,"Omaha","Texas A&M",1,3,0,1
+6174256,"Arizona","North Carolina",2,3,0,1
+6174257,"Portland St.","Kansas St.",1,3,0,1
+6174258,"Youngstown St.","Belmont",1,3,0,1
+6174259,"Sam Houston","Oral Roberts",3,1,1,0
+6174260,"UAB","Buffalo",2,3,0,1
+6174261,"Charlotte","Elon",3,1,1,0
+6174262,"Ball St.","Gonzaga",3,0,1,0
+6174263,"Butler","Fresno St.",3,1,1,0
+6174264,"CSU Bakersfield","Providence",3,0,1,0
+6174265,"Colorado St.","Kentucky",3,1,1,0
+6174266,"UTSA","Missouri St.",3,0,1,0
+6174268,"Southeast Mo. St.","Central Mich.",3,1,1,0
+6174269,"Fla. Atlantic","Kansas City",1,3,0,1
+6174270,"UAlbany","Syracuse",3,0,1,0
+6174271,"UC Irvine","New Mexico",2,3,0,1
+6174272,"Alabama","Saint Louis",3,0,1,0
+6174273,"San Jose St.","CSUN",3,2,1,0
+6174274,"Colorado","UNLV",1,3,0,1
+6174275,"Binghamton","Merrimack",3,0,1,0
+6174276,"Oregon St.","Kennesaw St.",1,3,0,1
+6174277,"Winthrop","South Dakota St.",1,3,0,1
+6174278,"LIU","Lehigh",2,3,0,1
+6174279,"Tarleton St.","Northern Ariz.",1,3,0,1
+6174280,"Montana St.","North Dakota",3,1,1,0
+6174281,"Army West Point","California",0,3,0,1
+6174282,"Morehead St.","Queens (NC)",3,0,1,0
+6174283,"Weber St.","Manhattan",3,0,1,0
+6174284,"San Diego","Oregon",0,3,0,1
+6174285,"Houston","Southern California",3,1,1,0
+6174287,"Gonzaga","Purdue Fort Wayne",3,0,1,0
+6174288,"Milwaukee","UNI",0,3,0,1
+6174289,"UT Martin","Texas St.",0,3,0,1
+6174290,"California","Fairfield",3,1,1,0
+6174291,"Fordham","Presbyterian",3,1,1,0
+6174292,"Northern Ariz.","Prairie View",2,3,0,1
+6174293,"Liberty","Gardner-Webb",3,0,1,0
+6174294,"Montana","Pittsburgh",0,3,0,1
+6174295,"Auburn","McNeese",3,0,1,0
+6174296,"Kansas City","Holy Cross",3,0,1,0
+6174297,"Central Ark.","Illinois St.",3,0,1,0
+6174298,"Fresno St.","Kent St.",3,1,1,0
+6174299,"Kent St.","UC San Diego",1,3,0,1
+6174300,"Alcorn","Samford",0,3,0,1
+6174301,"North Dakota St.","Seattle U",3,1,1,0
+6174302,"Georgia","Western Caro.",3,0,1,0
+6174303,"Dayton","Drake",3,2,1,0
+6174304,"Col. of Charleston","Le Moyne",3,0,1,0
+6174305,"Sam Houston","Portland",2,3,0,1
+6174306,"South Carolina St.","New Orleans",0,3,0,1
+6174307,"Providence","Eastern Wash.",1,3,0,1
+6174308,"William & Mary","Bellarmine",3,1,1,0
+6174309,"ULM","Valparaiso",0,3,0,1
+6174310,"Grambling","Washington",0,3,0,1
+6174311,"Delaware St.","Siena",3,1,1,0
+6174312,"Stonehill","Queens (NC)",1,3,0,1
+6174313,"Loyola Maryland","Niagara",3,0,1,0
+6174314,"IUPUI","SIUE",3,2,1,0
+6174315,"Missouri St.","Texas Southern",3,0,1,0
+6174316,"UC Davis","North Carolina",3,1,1,0
+6174317,"Rhode Island","UT Arlington",0,3,0,1
+6174318,"Belmont","Canisius",0,3,0,1
+6174319,"Wichita St.","Houston Christian",3,1,1,0
+6174320,"UNCW","Stetson",0,3,0,1
+6174321,"Bethune-Cookman","Marshall",0,3,0,1
+6174322,"UNC Asheville","N.C. Central",3,2,1,0
+6174323,"Fla. Atlantic","FDU",3,1,1,0
+6174324,"UCF","Syracuse",3,0,1,0
+6174325,"New Hampshire","Radford",3,0,1,0
+6174326,"North Dakota","Oregon St.",0,3,0,1
+6174327,"St. John's (NY)","Arizona St.",0,3,0,1
+6174328,"Louisiana Tech","Little Rock",3,0,1,0
+6174329,"Green Bay","Winthrop",3,0,1,0
+6174330,"Cleveland St.","Tennessee St.",3,0,1,0
+6174331,"BYU","UTRGV",3,1,1,0
+6174332,"Norfolk St.","VCU",0,3,0,1
+6174333,"Iona","LIU",3,0,1,0
+6174334,"UNC Greensboro","East Carolina",0,3,0,1
+6174335,"Air Force","Bryant",3,1,1,0
+6174336,"Tennessee","Marist",3,0,1,0
+6174337,"Tarleton St.","Ark.-Pine Bluff",3,0,1,0
+6174338,"Quinnipiac","Morgan St.",3,0,1,0
+6174339,"High Point","UMBC",3,1,1,0
+6174340,"SFA","Tulane",3,1,1,0
+6174341,"Santa Clara","Jacksonville",3,0,1,0
+6174342,"Bradley","Eastern Mich.",3,1,1,0
+6174343,"Memphis","Miami (OH)",0,3,0,1
+6174344,"Ball St.","Oklahoma",1,3,0,1
+6174345,"Binghamton","Duquesne",3,1,1,0
+6174346,"Buffalo","Florida A&M",3,1,1,0
+6174347,"Central Mich.","Evansville",2,3,0,1
+6174348,"Elon","Charleston So.",1,3,0,1
+6174349,"St. Thomas (MN)","Oakland",1,3,0,1
+6174350,"Middle Tenn.","Wofford",1,3,0,1
+6174351,"SMU","Utah St.",1,3,0,1
+6174352,"Texas","LMU (CA)",3,0,1,0
+6174353,"Bucknell","Gardner-Webb",3,1,1,0
+6174354,"Grand Canyon","Toledo",3,0,1,0
+6174355,"App State","Tennessee Tech",3,0,1,0
+6174356,"Hofstra","NJIT",3,1,1,0
+6174357,"Southeastern La.","UTEP",1,3,0,1
+6174358,"UMES","Alabama A&M",3,1,1,0
+6174359,"Nicholls","Oral Roberts",0,3,0,1
+6174360,"Howard","George Washington",3,2,1,0
+6174361,"Eastern Ill.","Akron",3,1,1,0
+6174362,"Idaho","North Dakota St.",1,3,0,1
+6174363,"Youngstown St.","Saint Francis (PA)",1,3,0,1
+6174364,"South Carolina","Towson",3,1,1,0
+6174365,"UTSA","Tex. A&M-Commerce",3,1,1,0
+6174366,"George Mason","American",2,3,0,1
+6174367,"Georgia St.","Chattanooga",2,3,0,1
+6174368,"Morehead St.","USC Upstate",3,0,1,0
+6174369,"Alabama","Mercer",3,0,1,0
+6174370,"South Dakota","DePaul",3,0,1,0
+6174371,"Coppin St.","Jacksonville St.",3,0,1,0
+6174372,"North Texas","UNLV",3,0,1,0
+6174373,"Davidson","West Virginia",3,0,1,0
+6174374,"Indiana St.","Alabama St.",3,1,1,0
+6174375,"Western Ky.","Drake",3,0,1,0
+6174376,"NC State","Utah",0,3,0,1
+6174377,"California Baptist","CSUN",3,1,1,0
+6174378,"Loyola Chicago","Duke",3,0,1,0
+6174379,"Army West Point","Central Conn. St.",3,0,1,0
+6174380,"Western Caro.","UConn",2,3,0,1
+6174382,"Utah Tech","Manhattan",3,0,1,0
+6174383,"Virginia Tech","Furman",3,0,1,0
+6174384,"Western Ill.","Murray St.",1,3,0,1
+6174385,"South Alabama","Jackson St.",3,1,1,0
+6174386,"Liberty","Stony Brook",3,0,1,0
+6174387,"UAB","Austin Peay",2,3,0,1
+6174388,"Charlotte","Coastal Carolina",3,2,1,0
+6174389,"UIC","Lindenwood",3,0,1,0
+6174390,"UAlbany","Navy",0,3,0,1
+6174391,"Southeast Mo. St.","Southern Ill.",1,3,0,1
+6174392,"Troy","Wright St.",0,3,0,1
+6174393,"Loyola Maryland","Robert Morris",3,1,1,0
+6174394,"Pepperdine","Texas A&M",0,3,0,1
+6174395,"Kansas St.","San Diego St.",3,0,1,0
+6174396,"Eastern Ky.","Louisiana",0,3,0,1
+6174397,"Fordham","Stetson",3,2,1,0
+6174398,"Arizona","Pacific",3,1,1,0
+6174399,"Weber St.","Saint Mary's (CA)",2,3,0,1
+6174400,"Abilene Christian","Houston Christian",3,1,1,0
+6174401,"Arkansas St.","North Ala.",3,2,1,0
+6174402,"James Madison","Ohio",0,3,0,1
+6174403,"Sam Houston","A&M-Corpus Christi",1,3,0,1
+6174404,"Butler","UC San Diego",3,2,1,0
+6174405,"CSU Bakersfield","Southern Utah",3,1,1,0
+6174406,"Northern Colo.","Kentucky",1,3,0,1
+6174407,"Milwaukee","Villanova",2,3,0,1
+6174408,"California Baptist","Jacksonville",2,3,0,1
+6174409,"California","Central Conn. St.",3,0,1,0
+6174410,"Saint Peter's","Merrimack",1,3,0,1
+6174411,"Merrimack","Duquesne",0,3,0,1
+6174412,"NJIT","Siena",3,0,1,0
+6174413,"Iona","Lehigh",2,3,0,1
+6174414,"Cal Poly","Nevada",3,1,1,0
+6174415,"LSU","UCLA",2,3,0,1
+6174416,"Ga. Southern","UNC Greensboro",3,0,1,0
+6174417,"Wake Forest","Northeastern",3,0,1,0
+6174418,"Portland St.","Cal St. Fullerton",3,0,1,0
+6174419,"UNC Asheville","UMES",3,0,1,0
+6174420,"Northern Ky.","ETSU",3,1,1,0
+6174421,"UC Irvine","Seton Hall",0,3,0,1
+6174422,"Colgate","Illinois St.",3,0,1,0
+6174423,"New Mexico St.","North Florida",3,0,1,0
+6174424,"UNCW","Presbyterian",3,0,1,0
+6174425,"Dayton","Marquette",2,3,0,1
+6174426,"Bradley","IUPUI",3,0,1,0
+6174427,"Utah Valley","NC State",2,3,0,1
+6174428,"Mississippi St.","Northwestern St.",3,0,1,0
+6174429,"Wyoming","South Dakota St.",3,1,1,0
+6174430,"Rice","Southern California",3,0,1,0
+6174431,"Western Mich.","UNI",3,1,1,0
+6174432,"Old Dominion","Norfolk St.",3,0,1,0
+6174433,"Houston","Southern Miss.",3,1,1,0
+6174434,"Miami (FL)","FIU",3,0,1,0
+6174435,"Cincinnati","Xavier",1,3,0,1
+6174436,"FGCU","Ole Miss",3,2,1,0
+6174437,"Colorado","Campbell",3,0,1,0
+6174438,"Seattle U","UC Riverside",3,0,1,0
+6174439,"Temple","LIU",3,0,1,0
+6174440,"Tennessee","UT Martin",3,0,1,0
+6174441,"Ark.-Pine Bluff","Northern Ariz.",0,3,0,1
+6174443,"Texas Tech","Notre Dame",3,1,1,0
+6174444,"Hofstra","Delaware St.",3,1,1,0
+6174445,"Georgia","Florida St.",0,3,0,1
+6174446,"Delaware","Niagara",3,0,1,0
+6174448,"Col. of Charleston","West Virginia",1,3,0,1
+6174450,"Omaha","Kansas",0,3,0,1
+6174451,"Auburn","Jacksonville St.",3,0,1,0
+6174452,"Missouri","Central Ark.",3,2,1,0
+6174453,"Ball St.","Purdue Fort Wayne",3,0,1,0
+6174454,"Colorado St.","Stanford",1,3,0,1
+6174455,"Montana St.","Kennesaw St.",3,1,1,0
+6174456,"George Mason","Georgetown",0,3,0,1
+6174457,"Wyoming","Green Bay",3,0,1,0
+6174458,"Binghamton","Saint Peter's",3,0,1,0
+6174459,"Bryant","Rhode Island",3,1,1,0
+6174460,"Air Force","UT Arlington",2,3,0,1
+6174461,"Tarleton St.","UIW",2,3,0,1
+6174463,"Louisville","Washington St.",3,0,1,0
+6174464,"New Mexico St.","Denver",3,0,1,0
+6174465,"UTRGV","Pittsburgh",0,3,0,1
+6174466,"Lipscomb","Utah St.",1,3,0,1
+6174467,"Cal St. Fullerton","Kansas St.",0,3,0,1
+6174468,"Idaho","UC Riverside",3,0,1,0
+6174469,"UConn","Florida St.",0,3,0,1
+6174470,"Alabama St.","Xavier",0,3,0,1
+6174471,"Arizona St.","Ole Miss",3,0,1,0
+6174472,"Southern California","Southern Miss.",3,0,1,0
+6174473,"Niagara","Robert Morris",1,3,0,1
+6174474,"Duke","Creighton",3,2,1,0
+6174475,"High Point","Ohio",1,3,0,1
+6174477,"South Alabama","Tulane",3,0,1,0
+6174478,"Western Mich.","Villanova",3,1,1,0
+6174479,"UC Irvine","San Francisco",1,3,0,1
+6174480,"Missouri","Colgate",3,2,1,0
+6174481,"Colorado","North Texas",3,0,1,0
+6174482,"Campbell","UNLV",1,3,0,1
+6174483,"Washington St.","Troy",3,0,1,0
+6174484,"Clemson","Wofford",3,0,1,0
+6174485,"Mississippi St.","Louisiana",3,2,1,0
+6174486,"Iowa St.","DePaul",3,0,1,0
+6174487,"Wake Forest","Grand Canyon",3,1,1,0
+6174488,"UAB","Florida A&M",3,2,1,0
+6174489,"Boston College","Sacred Heart",3,0,1,0
+6174490,"UAlbany","UCF",0,3,0,1
+6174491,"Sacramento St.","Cal Poly",0,3,0,1
+6174492,"Portland St.","San Diego St.",3,0,1,0
+6174493,"FGCU","St. John's (NY)",2,3,0,1
+6174494,"Northern Ky.","Bowling Green",0,3,0,1
+6174495,"Temple","Lehigh",3,0,1,0
+6174496,"UC Santa Barbara","North Florida",3,0,1,0
+6174497,"Texas Tech","Abilene Christian",3,1,1,0
+6174498,"James Madison","UMBC",3,1,1,0
+6174499,"Louisville","Wright St.",3,1,1,0
+6174500,"Arkansas","Tulsa",3,0,1,0
+6174501,"George Mason","Howard",2,3,0,1
+6174502,"Delaware","Robert Morris",3,1,1,0
+6174503,"Cincinnati","Indiana St.",3,0,1,0
+6174504,"San Jose St.","Santa Clara",0,3,0,1
+6174505,"American","Georgetown",2,3,0,1
+6174506,"Long Beach St.","LMU (CA)",0,3,0,1
+6174507,"Hawaii","Oregon",0,3,0,1
+6174508,"Idaho St.","Boise St.",0,3,0,1
+6174509,"Houston","McNeese",3,0,1,0
+6174510,"NIU","Chicago St.",1,3,0,1
+6174511,"Northwestern St.","UCLA",0,3,0,1
+6174513,"Miami (FL)","Fla. Atlantic",3,1,1,0
+6174514,"Western Ky.","Belmont",3,0,1,0
+6174515,"Temple","Delaware St.",3,0,1,0
+6174517,"Rice","Louisiana",0,3,0,1
+6174518,"Grambling","ULM",3,2,1,0
+6174519,"Iona","Hofstra",0,3,0,1
+6174520,"Abilene Christian","Tex. A&M-Commerce",3,0,1,0
+6174522,"Pacific","UC Davis",3,1,1,0
+6174523,"North Texas","Texas Southern",3,0,1,0
+6174524,"Stanford","Florida",0,3,0,1
+6174525,"Northern Colo.","Colorado St.",3,2,1,0
+6174526,"South Carolina St.","Charleston So.",0,3,0,1
+6174527,"Old Dominion","William & Mary",3,1,1,0
+6174528,"The Citadel","Col. of Charleston",3,1,1,0
+6174530,"Evansville","Southern Ind.",3,1,1,0
+6174531,"Central Conn. St.","NJIT",0,3,0,1
+6174533,"Utah St.","Utah",3,0,1,0
+6174534,"New Hampshire","Boston College",3,1,1,0
+6174535,"CSUN","Fresno St.",3,0,1,0
+6174536,"South Carolina","Clemson",3,1,1,0
+6174537,"Villanova","UMES",3,0,1,0
+6174538,"BYU","LMU (CA)",3,0,1,0
+6174539,"Furman","UNC Asheville",3,0,1,0
+6174540,"Stonehill","Bryant",1,3,0,1
+6174541,"UCF","FIU",3,0,1,0
+6174542,"Binghamton","Montana",2,3,0,1
+6174543,"Texas A&M","Wright St.",3,2,1,0
+6174544,"High Point","Liberty",2,3,0,1
+6174545,"Seton Hall","NJIT",3,0,1,0
+6174546,"Pepperdine","UC Santa Barbara",2,3,0,1
+6174547,"UTEP","San Francisco",3,1,1,0
+6174548,"North Carolina","West Virginia",3,0,1,0
+6174549,"NC State","Howard",3,1,1,0
+6174550,"Buffalo","DePaul",3,0,1,0
+6174551,"SFA","Cal Poly",3,0,1,0
+6174552,"Coastal Carolina","TCU",3,1,1,0
+6174553,"Toledo","Youngstown St.",1,3,0,1
+6174554,"Missouri St.","Kansas City",2,3,0,1
+6174555,"Lipscomb","Ole Miss",2,3,0,1
+6174556,"IUPUI","UC Riverside",3,2,1,0
+6174557,"Marshall","Morehead St.",0,3,0,1
+6174558,"Chicago St.","UC Irvine",1,3,0,1
+6174559,"Morgan St.","Towson",0,3,0,1
+6174560,"Northern Colo.","Colorado",0,3,0,1
+6174561,"New Mexico","CSU Bakersfield",3,1,1,0
+6174562,"Duke","Loyola Maryland",3,1,1,0
+6174563,"San Diego St.","Oregon",1,3,0,1
+6174564,"Texas St.","North Texas",3,2,1,0
+6174565,"Houston Christian","Prairie View",3,0,1,0
+6174566,"East Carolina","Campbell",3,0,1,0
+6174567,"Bowling Green","Loyola Chicago",3,2,1,0
+6174568,"Utah St.","Weber St.",3,1,1,0
+6174569,"Hawaii","Southern California",3,2,1,0
+6174570,"San Diego","Tennessee",1,3,0,1
+6174571,"St. Thomas (MN)","Montana St.",1,3,0,1
+6174572,"Sacred Heart","Fairfield",0,3,0,1
+6174573,"BYU","McNeese",3,0,1,0
+6174574,"Grambling","Providence",1,3,0,1
+6174575,"Dartmouth","Temple",2,3,0,1
+6174576,"Milwaukee","California Baptist",1,3,0,1
+6174577,"Eastern Ill.","Oral Roberts",3,0,1,0
+6174578,"Wofford","South Carolina St.",3,0,1,0
+6174579,"Jacksonville","Northern Ariz.",3,0,1,0
+6174580,"Ga. Southern","George Washington",3,0,1,0
+6174581,"Valparaiso","Western Ill.",3,0,1,0
+6174582,"Houston Christian","Penn",3,0,1,0
+6174583,"UTSA","Lamar University",3,0,1,0
+6174585,"N.C. A&T","Southern Ill.",2,3,0,1
+6174586,"Nevada","Pacific",0,3,0,1
+6174587,"Western Mich.","UAB",3,0,1,0
+6174588,"Jacksonville St.","Southeast Mo. St.",0,3,0,1
+6174589,"Georgia","North Florida",3,0,1,0
+6174590,"Akron","Morehead St.",3,1,1,0
+6174591,"Murray St.","Southern Ind.",3,0,1,0
+6174592,"Tex. A&M-Commerce","Wyoming",0,3,0,1
+6174593,"Saint Louis","Bradley",3,1,1,0
+6174594,"Portland","San Jose St.",1,3,0,1
+6174595,"Air Force","UC San Diego",3,2,1,0
+6174596,"Ark.-Pine Bluff","UT Martin",0,3,0,1
+6174597,"FGCU","Mercer",3,0,1,0
+6174598,"Tennessee Tech","ETSU",3,0,1,0
+6174599,"Fla. Atlantic","Cleveland St.",3,0,1,0
+6174600,"Memphis","Virginia Tech",0,3,0,1
+6174601,"VCU","Iona",3,0,1,0
+6174602,"Duquesne","Canisius",3,1,1,0
+6174603,"Portland St.","Southern Utah",3,0,1,0
+6174604,"Butler","North Dakota St.",2,3,0,1
+6174605,"App State","Bethune-Cookman",3,0,1,0
+6174606,"Southern Miss.","Nicholls",3,0,1,0
+6174607,"NJIT","George Mason",1,3,0,1
+6174608,"Western Ky.","Colgate",3,1,1,0
+6174609,"Eastern Wash.","Seattle U",3,1,1,0
+6174610,"UIC","SIUE",3,0,1,0
+6174611,"Sacramento St.","Cal St. Fullerton",3,0,1,0
+6174612,"Charleston So.","Chattanooga",0,3,0,1
+6174613,"Washington St.","Northwestern St.",3,0,1,0
+6174614,"Presbyterian","UIW",0,3,0,1
+6174615,"Louisville","Northern Ky.",3,0,1,0
+6174616,"Coppin St.","UNC Greensboro",3,1,1,0
+6174617,"Florida A&M","The Citadel",2,3,0,1
+6174618,"Drake","Tulsa",3,0,1,0
+6174619,"Indiana St.","ULM",3,1,1,0
+6174620,"Marist","UMES",3,0,1,0
+6174621,"Central Mich.","UAlbany",3,0,1,0
+6174622,"Bellarmine","New Orleans",3,0,1,0
+6174623,"Arkansas St.","Prairie View",3,0,1,0
+6174624,"Elon","Georgia St.",0,3,0,1
+6174625,"Stetson","Col. of Charleston",3,0,1,0
+6174626,"South Fla.","Idaho St.",3,1,1,0
+6174627,"Brown","Le Moyne",3,0,1,0
+6174628,"Grand Canyon","LIU",3,0,1,0
+6174629,"Utah Tech","St. John's (NY)",1,3,0,1
+6174630,"Little Rock","Southeastern La.",1,3,0,1
+6174631,"UC Riverside","Eastern Ill.",0,3,0,1
+6174632,"Oakland","Eastern Mich.",3,1,1,0
+6174633,"Lindenwood","Austin Peay",0,3,0,1
+6174634,"Delaware","Tarleton St.",3,2,1,0
+6174635,"Loyola Chicago","Wright St.",0,3,0,1
+6174636,"DePaul","Binghamton",3,1,1,0
+6174637,"Green Bay","South Alabama",1,3,0,1
+6174638,"Cincinnati","Kennesaw St.",3,1,1,0
+6174639,"Howard","Winthrop",3,2,1,0
+6174640,"Radford","Georgetown",1,3,0,1
+6174641,"Saint Peter's","NJIT",0,3,0,1
+6174642,"Mercer","Idaho St.",3,0,1,0
+6174643,"Oregon St.","Oklahoma",3,0,1,0
+6174644,"Abilene Christian","Providence",3,2,1,0
+6174645,"Grambling","North Dakota",1,3,0,1
+6174646,"CSU Bakersfield","Utah Tech",1,3,0,1
+6174647,"Presbyterian","Louisiana Tech",2,3,0,1
+6174648,"Penn","UTRGV",0,3,0,1
+6174649,"Coppin St.","Morehead St.",3,0,1,0
+6174650,"Arizona St.","UTEP",3,1,1,0
+6174651,"Alabama A&M","Sam Houston",1,3,0,1
+6174652,"Alabama St.","Wake Forest",1,3,0,1
+6174653,"Milwaukee","Montana St.",3,1,1,0
+6174654,"Idaho","UC San Diego",0,3,0,1
+6174655,"Kansas City","Ark.-Pine Bluff",3,0,1,0
+6174656,"FDU","Rider",3,0,1,0
+6174657,"LSU","UNI",0,3,0,1
+6174658,"Eastern Ky.","Fla. Atlantic",3,1,1,0
+6174659,"High Point","Yale",3,1,1,0
+6174660,"SFA","Nicholls",3,0,1,0
+6174661,"Bryant","Siena",3,0,1,0
+6174662,"Holy Cross","New Hampshire",0,3,0,1
+6174663,"Loyola Maryland","West Virginia",3,1,1,0
+6174664,"Chattanooga","Southern Ill.",2,3,0,1
+6174666,"Kent St.","South Dakota St.",3,2,1,0
+6174667,"NIU","UNCW",3,2,1,0
+6174668,"Campbell","App State",2,3,0,1
+6174669,"Cornell","Niagara",3,1,1,0
+6174670,"Stony Brook","Purdue Fort Wayne",1,3,0,1
+6174671,"Murray St.","New Orleans",3,0,1,0
+6174672,"Cal Poly","Southern Miss.",3,2,1,0
+6174673,"Quinnipiac","Virginia",1,3,0,1
+6174674,"Lamar University","Tarleton St.",0,3,0,1
+6174676,"Houston","North Texas",3,1,1,0
+6174677,"Colgate","James Madison",1,3,0,1
+6174678,"George Washington","Stetson",0,3,0,1
+6174679,"Youngstown St.","Memphis",3,2,1,0
+6174680,"Marist","Central Conn. St.",3,2,1,0
+6174681,"Seattle U","Pacific",0,3,0,1
+6174682,"Louisiana","Tex. A&M-Commerce",3,0,1,0
+6174683,"Lehigh","Merrimack",3,0,1,0
+6174684,"Arizona","Iowa St.",1,3,0,1
+6174685,"Elon","South Carolina St.",3,0,1,0
+6174686,"Clemson","Western Caro.",3,0,1,0
+6174687,"Seton Hall","George Mason",3,1,1,0
+6174688,"Chicago St.","Jacksonville St.",3,0,1,0
+6174689,"Weber St.","LMU (CA)",0,3,0,1
+6174691,"TCU","Georgia",3,0,1,0
+6174692,"Ohio","Butler",3,1,1,0
+6174693,"Belmont","Delaware St.",3,0,1,0
+6174694,"UAlbany","Bradley",0,3,0,1
+6174695,"Cal St. Fullerton","Portland",2,3,0,1
+6174696,"Austin Peay","Indiana St.",3,2,1,0
+6174697,"Texas Southern","A&M-Corpus Christi",0,3,0,1
+6174698,"Bowling Green","Texas A&M",0,3,0,1
+6174699,"Gonzaga","Air Force",2,3,0,1
+6174700,"Buffalo","Montana",3,1,1,0
+6174701,"Valparaiso","Eastern Mich.",3,2,1,0
+6174702,"Missouri St.","UT Martin",3,2,1,0
+6174703,"Creighton","Ball St.",3,2,1,0
+6174704,"IUPUI","Oral Roberts",3,0,1,0
+6174705,"Brown","Rhode Island",3,0,1,0
+6174706,"Marshall","UNC Greensboro",3,1,1,0
+6174707,"Fresno St.","CSUN",3,2,1,0
+6174708,"Missouri","Northern Ky.",3,0,1,0
+6174709,"Sacred Heart","UMBC",0,3,0,1
+6174710,"Morgan St.","Dartmouth",3,1,1,0
+6174711,"UNC Asheville","Furman",0,3,0,1
+6174712,"Army West Point","Liberty",0,3,0,1
+6174713,"Florida St.","SMU",0,3,0,1
+6174714,"N.C. Central","Gardner-Webb",3,2,1,0
+6174715,"Mississippi Val.","LeMoyne-Owen",3,0,1,0
+6174716,"Charlotte","Northern Colo.",0,3,0,1
+6174717,"Western Mich.","SIUE",3,1,1,0
+6174718,"Cincinnati","ETSU",3,1,1,0
+6174719,"Florida A&M","Northern Ariz.",3,2,1,0
+6174720,"Ole Miss","Tennessee St.",3,0,1,0
+6174721,"UC Davis","McNeese",3,1,1,0
+6174722,"Iona","Radford",2,3,0,1
+6174723,"New Mexico","St. John's (NY)",3,0,1,0
+6174724,"Houston Christian","Arkansas St.",3,1,1,0
+6174725,"Ga. Southern","Col. of Charleston",3,1,1,0
+6174726,"Toledo","Virginia Tech",2,3,0,1
+6174727,"San Diego St.","Pepperdine",0,3,0,1
+6174728,"Kansas St.","Omaha",3,0,1,0
+6174729,"Tulane","Alabama",0,3,0,1
+6174730,"UT Arlington","UIW",3,0,1,0
+6174731,"Eastern Wash.","Nevada",0,3,0,1
+6174732,"East Carolina","Bethune-Cookman",3,0,1,0
+6174733,"Dayton","North Dakota St.",3,1,1,0
+6174734,"Bucknell","William & Mary",1,3,0,1
+6174735,"Saint Mary's (CA)","Southern Utah",3,1,1,0
+6174736,"UIC","UAB",3,0,1,0
+6174737,"Coastal Carolina","North Florida",0,3,0,1
+6174738,"Texas Tech","Wyoming",1,3,0,1
+6174739,"Baylor","Rice",3,1,1,0
+6174740,"Villanova","Notre Dame",0,3,0,1
+6174741,"California","Portland St.",3,1,1,0
+6174742,"Sacramento St.","San Jose St.",3,1,1,0
+6174743,"Wofford","Georgia St.",3,0,1,0
+6174744,"Utah","UNLV",3,1,1,0
+6174745,"Charleston So.","N.C. A&T",3,2,1,0
+6174746,"UCF","Mississippi St.",3,1,1,0
+6174747,"American","UMES",3,0,1,0
+6174748,"Miami (OH)","Cleveland St.",2,3,0,1
+6174749,"South Fla.","FGCU",1,3,0,1
+6174750,"St. Thomas (MN)","California Baptist",3,1,1,0
+6174751,"Towson","FDU",3,1,1,0
+6174752,"Navy","Utah Valley",3,0,1,0
+6174753,"Kentucky","Pittsburgh",0,3,0,1
+6174754,"Abilene Christian","North Dakota",3,0,1,0
+6174755,"South Carolina","Miami (FL)",3,2,1,0
+6174756,"Davidson","Queens (NC)",3,0,1,0
+6174757,"Harvard","Stonehill",3,0,1,0
+6174758,"UTSA","Delaware",1,3,0,1
+6174759,"Samford","Evansville",1,3,0,1
+6174760,"Columbia","Fordham",0,3,0,1
+6174761,"Long Beach St.","Washington",1,3,0,1
+6174762,"Central Ark.","Southeastern La.",1,3,0,1
+6174763,"UConn","Hofstra",1,3,0,1
+6174764,"Saint Francis (PA)","Manhattan",3,0,1,0
+6174765,"Colorado","Xavier",3,0,1,0
+6174766,"New Mexico St.","San Francisco",3,2,1,0
+6174767,"Northwestern St.","Tulsa",0,3,0,1
+6174768,"Boston College","Tennessee",0,3,0,1
+6174769,"Lafayette","Northeastern",2,3,0,1
+6174770,"Lindenwood","ULM",3,1,1,0
+6174771,"Jacksonville","The Citadel",2,3,0,1
+6174772,"Bellarmine","Southern Ind.",3,0,1,0
+6174773,"Tennessee Tech","Kennesaw St.",1,3,0,1
+6174774,"Washington St.","Drake",3,1,1,0
+6174775,"Arkansas","Colorado St.",3,2,1,0
+6174776,"Central Mich.","Saint Louis",3,2,1,0
+6174777,"Louisville","South Dakota",3,0,1,0
+6174778,"Fordham","Quinnipiac",3,1,1,0
+6174779,"UC Irvine","Jacksonville St.",3,0,1,0
+6174780,"Oral Roberts","UC Riverside",3,0,1,0
+6174781,"Old Dominion","Utah Valley",3,2,1,0
+6174782,"Arizona St.","San Francisco",3,1,1,0
+6174783,"Nicholls","Cal Poly",0,3,0,1
+6174784,"Montana St.","California Baptist",3,1,1,0
+6174785,"Idaho St.","FGCU",0,3,0,1
+6174786,"North Dakota","Providence",2,3,0,1
+6174787,"Houston Christian","UTRGV",3,2,1,0
+6174788,"CSU Bakersfield","St. John's (NY)",2,3,0,1
+6174789,"Loyola Chicago","Texas A&M",0,3,0,1
+6174790,"Montana","DePaul",1,3,0,1
+6174791,"Holy Cross","Stonehill",3,2,1,0
+6174793,"North Florida","TCU",1,3,0,1
+6174794,"UNCW","Queens (NC)",3,0,1,0
+6174795,"North Dakota St.","Ohio",1,3,0,1
+6174796,"Cornell","William & Mary",2,3,0,1
+6174797,"Alabama St.","FIU",0,3,0,1
+6174798,"Cal St. Fullerton","San Jose St.",0,3,0,1
+6174799,"Siena","Lafayette",1,3,0,1
+6174800,"Col. of Charleston","George Washington",3,0,1,0
+6174801,"Western Ill.","Oakland",1,3,0,1
+6174802,"Morgan St.","FDU",3,2,1,0
+6174803,"UT Arlington","Presbyterian",3,0,1,0
+6174804,"Gonzaga","Idaho",3,1,1,0
+6174805,"American","Central Conn. St.",3,0,1,0
+6174806,"Miami (OH)","Fla. Atlantic",1,3,0,1
+6174807,"Marshall","Akron",2,3,0,1
+6174808,"Robert Morris","Canisius",3,1,1,0
+6174809,"Nevada","Seattle U",2,3,0,1
+6174810,"Bethune-Cookman","Campbell",0,3,0,1
+6174811,"Akron","UNC Greensboro",3,0,1,0
+6174812,"Hofstra","Merrimack",3,0,1,0
+6174813,"Alabama","Alabama A&M",3,0,1,0
+6174814,"USC Upstate","South Carolina St.",3,0,1,0
+6174815,"James Madison","Western Ky.",3,0,1,0
+6174816,"Liberty","Yale",3,1,1,0
+6174817,"Saint Francis (PA)","Purdue Fort Wayne",2,3,0,1
+6174818,"Kennesaw St.","ETSU",3,1,1,0
+6174819,"Wyoming","Louisiana",3,2,1,0
+6174820,"Rhode Island","Le Moyne",3,1,1,0
+6174821,"Towson","Dartmouth",3,0,1,0
+6174822,"Davidson","NIU",3,1,1,0
+6174823,"Columbia","Virginia",2,3,0,1
+6174824,"Oklahoma","Boise St.",3,1,1,0
+6174825,"Niagara","Princeton",0,3,0,1
+6174826,"New Orleans","Southern Ind.",1,3,0,1
+6174827,"UAlbany","Saint Louis",1,3,0,1
+6174828,"Iowa St.","LIU",3,0,1,0
+6174829,"ULM","Austin Peay",2,3,0,1
+6174830,"George Mason","Saint Peter's",3,0,1,0
+6174831,"UT Martin","Kansas City",1,3,0,1
+6174832,"Virginia Tech","Youngstown St.",3,0,1,0
+6174833,"Sacramento St.","Portland",3,1,1,0
+6174834,"Miami (FL)","Troy",3,0,1,0
+6174835,"Arkansas St.","Penn",3,0,1,0
+6174836,"Dayton","Butler",3,0,1,0
+6174837,"UIC","Western Mich.",1,3,0,1
+6174838,"Ga. Southern","Stetson",3,0,1,0
+6174839,"Wofford","Elon",3,0,1,0
+6174840,"Bryant","Lafayette",3,0,1,0
+6174841,"Marshall","Coppin St.",2,3,0,1
+6174842,"Harvard","New Hampshire",3,2,1,0
+6174843,"Kansas","Marquette",3,1,1,0
+6174844,"Army West Point","High Point",1,3,0,1
+6174845,"Central Ark.","Little Rock",3,1,1,0
+6174846,"Jacksonville","Florida A&M",3,0,1,0
+6174847,"Texas Southern","A&M-Corpus Christi",0,3,0,1
+6174848,"Louisiana Tech","UIW",1,3,0,1
+6174849,"Illinois St.","Wichita St.",0,3,0,1
+6174850,"Iona","Georgetown",3,1,1,0
+6174851,"Delaware","Lamar University",3,0,1,0
+6174852,"Oregon","Pepperdine",3,0,1,0
+6174853,"Auburn","SMU",3,1,1,0
+6174854,"Eastern Mich.","Western Ill.",3,2,1,0
+6174855,"Eastern Wash.","Pacific",0,3,0,1
+6174856,"New Mexico","Utah Tech",2,3,0,1
+6174857,"SFA","Southern Miss.",3,2,1,0
+6174858,"Charleston So.","Southern Ill.",3,0,1,0
+6174859,"IUPUI","Eastern Ill.",1,3,0,1
+6174860,"UConn","Merrimack",3,1,1,0
+6174861,"Bucknell","Cornell",3,0,1,0
+6174862,"Bowling Green","Wright St.",3,1,1,0
+6174863,"Saint Mary's (CA)","Portland St.",3,1,1,0
+6174864,"Texas Tech","Tex. A&M-Commerce",3,0,1,0
+6174865,"California","Southern Utah",3,0,1,0
+6174866,"Utah St.","LMU (CA)",3,2,1,0
+6174867,"South Fla.","Mercer",3,0,1,0
+6174868,"St. Thomas (MN)","Milwaukee",0,3,0,1
+6174869,"USC Upstate","Georgia St.",3,0,1,0
+6174870,"Tennessee Tech","Cincinnati",0,3,0,1
+6174871,"Tulane","Sam Houston",1,3,0,1
+6174872,"Weber St.","UNLV",3,2,1,0
+6174873,"Green Bay","Western Caro.",2,3,0,1
+6174874,"Evansville","North Ala.",3,1,1,0
+6174875,"Northern Ariz.","The Citadel",0,3,0,1
+6174876,"Stony Brook","Manhattan",3,0,1,0
+6174877,"Cleveland St.","Eastern Ky.",0,3,0,1
+6174878,"UMES","Central Conn. St.",3,1,1,0
+6174879,"Fairfield","UMBC",1,3,0,1
+6174880,"Toledo","Memphis",3,1,1,0
+6174881,"Bellarmine","Murray St.",1,3,0,1
+6174882,"Missouri","South Dakota",3,0,1,0
+6174883,"Chicago St.","Southeast Mo. St.",3,0,1,0
+6174884,"Queens (NC)","NIU",3,2,1,0
+6174885,"East Carolina","App State",2,3,0,1
+6174886,"Lindenwood","Indiana St.",3,1,1,0
+6174887,"Buffalo","Binghamton",3,0,1,0
+6174888,"Coastal Carolina","Georgia",1,3,0,1
+6174889,"Missouri St.","Ark.-Pine Bluff",3,0,1,0
+6174890,"Seton Hall","Saint Peter's",3,0,1,0
+6174891,"San Diego St.","UC Santa Barbara",0,3,0,1
+6174892,"Texas St.","Houston",3,0,1,0
+6174893,"UTSA","Tarleton St.",2,3,0,1
+6174894,"Chattanooga","N.C. A&T",3,0,1,0
+6174895,"UAB","SIUE",3,2,1,0
+6174896,"Middle Tenn.","South Dakota St.",3,0,1,0
+6174897,"Prairie View","UTRGV",0,3,0,1
+6174898,"Air Force","Idaho",3,0,1,0
+6174899,"Ball St.","UNI",0,3,0,1
+6174900,"Central Mich.","Bradley",3,2,1,0
+6174901,"Duke","West Virginia",3,2,1,0
+6174902,"Abilene Christian","Grambling",3,0,1,0
+6174903,"Gardner-Webb","N.C. Central",3,0,1,0
+6174904,"Stonehill","New Hampshire",0,3,0,1
+6174905,"Northeastern","Siena",3,1,1,0
+6174906,"Purdue Fort Wayne","Manhattan",3,1,1,0
+6174907,"Hofstra","Lehigh",2,3,0,1
+6174908,"LIU","Arizona",0,3,0,1
+6174909,"Valparaiso","Oakland",3,0,1,0
+6174910,"VCU","Radford",3,1,1,0
+6174911,"BYU","UC Davis",3,0,1,0
+6174912,"Creighton","LSU",3,0,1,0
+6174913,"American","Marist",3,1,1,0
+6174914,"San Diego","Boston College",3,1,1,0
+6174915,"Northern Colo.","Xavier",3,0,1,0
+6174916,"Niagara","William & Mary",0,3,0,1
+6174917,"FIU","Mississippi St.",0,3,0,1
+6174918,"Drake","Northwestern St.",3,0,1,0
+6174919,"Santa Clara","Notre Dame",3,2,1,0
+6174920,"Clemson","South Alabama",0,3,0,1
+6174921,"North Carolina","Loyola Maryland",3,0,1,0
+6174922,"NC State","Winthrop",3,0,1,0
+6174923,"Gonzaga","UC San Diego",1,3,0,1
+6174924,"Lipscomb","Tennessee St.",3,0,1,0
+6174925,"Rhode Island","Brown",1,3,0,1
+6174926,"Davidson","UNCW",3,1,1,0
+6174927,"Morgan St.","Rider",0,3,0,1
+6174928,"UT Arlington","Louisiana Tech",3,0,1,0
+6174929,"Washington St.","Tulsa",3,0,1,0
+6174930,"Robert Morris","Duquesne",1,3,0,1
+6174931,"Colorado","Charlotte",3,0,1,0
+6174932,"Miami (OH)","Eastern Ky.",0,3,0,1
+6174933,"Dayton","Ohio",3,2,1,0
+6174934,"Bucknell","Princeton",0,3,0,1
+6174935,"Texas Tech","Louisiana",3,0,1,0
+6174936,"Bryant","Northeastern",2,3,0,1
+6174937,"Hawaii","Southern California",3,1,1,0
+6174938,"Navy","Old Dominion",3,1,1,0
+6174939,"Towson","Temple",3,0,1,0
+6174940,"Harvard","Holy Cross",3,1,1,0
+6174941,"Columbia","Quinnipiac",0,3,0,1
+6174942,"Long Beach St.","UCLA",1,3,0,1
+6174943,"Grand Canyon","Iowa St.",2,3,0,1
+6174944,"UConn","Lehigh",2,3,0,1
+6174945,"Saint Francis (PA)","Stony Brook",3,2,1,0
+6174946,"UCF","Wake Forest",2,3,0,1
+6174947,"Texas","Stanford",0,3,0,1
+6174948,"Oregon St.","Boise St.",3,0,1,0
+6174949,"Belmont","Syracuse",3,0,1,0
+6174950,"Alabama","Sam Houston",3,1,1,0
+6174951,"South Alabama","Western Caro.",3,0,1,0
+6174953,"Army West Point","Yale",1,3,0,1
+6174954,"Northern Ky.","South Dakota",3,2,1,0
+6174955,"Kent St.","Middle Tenn.",0,3,0,1
+6174956,"Towson","Rider",3,0,1,0
+6174957,"South Carolina","Troy",3,1,1,0
+6174958,"New Mexico St.","Arizona St.",1,3,0,1
+6174959,"Morgan St.","Temple",0,3,0,1
+6174960,"UC Irvine","Boston College",1,3,0,1
+6174961,"Charlotte","Xavier",3,0,1,0
+6174962,"LSU","Ball St.",3,1,1,0
+6174963,"FIU","Wake Forest",0,3,0,1
+6174964,"VCU","Georgetown",0,3,0,1
+6174965,"Samford","North Ala.",3,1,1,0
+6174966,"Grand Canyon","Arizona",2,3,0,1
+6174967,"Florida St.","Auburn",1,3,0,1
+6174968,"Clemson","Green Bay",3,0,1,0
+6174969,"Creighton","UNI",3,1,1,0
+6174970,"Missouri","Louisville",0,3,0,1
+6174971,"Tulane","Alabama A&M",3,0,1,0
+6174972,"Central Ark.","Colorado St.",2,3,0,1
+6174973,"UCF","Alabama St.",3,0,1,0
+6174974,"Villanova","Santa Clara",3,1,1,0
+6174976,"Samford","Florida St.",0,3,0,1
+6174977,"Sacramento St.","Saint Mary's (CA)",1,3,0,1
+6174978,"North Texas","Texas Tech",3,2,1,0
+6174979,"Portland St.","Utah",3,1,1,0
+6174980,"Jackson St.","ULM",3,2,1,0
+6174981,"LIU","Fairfield",3,0,1,0
+6174984,"Virginia","Old Dominion",3,2,1,0
+6174985,"Loyola Maryland","Coppin St.",0,3,0,1
+6174986,"Western Caro.","UNC Asheville",3,0,1,0
+6174987,"Eastern Ky.","Marshall",3,0,1,0
+6174988,"Wofford","High Point",2,3,0,1
+6174989,"Charleston So.","Col. of Charleston",0,3,0,1
+6174990,"Campbell","N.C. Central",3,2,1,0
+6174991,"Rice","Stanford",0,3,0,1
+6174992,"Abilene Christian","Texas Tech",3,1,1,0
+6174993,"Alabama St.","North Ala.",1,3,0,1
+6174994,"Texas Southern","Northwestern St.",1,3,0,1
+6174995,"Tex. A&M-Commerce","Prairie View",1,3,0,1
+6174996,"Duke","Elon",3,0,1,0
+6174997,"McNeese","Southern U.",3,0,1,0
+6174998,"Ark.-Pine Bluff","Ark.-Monticello",3,0,1,0
+6174999,"UTRGV","A&M-Corpus Christi",3,1,1,0
+6175000,"FDU","NJIT",2,3,0,1
+6175001,"Furman","USC Upstate",3,0,1,0
+6175002,"Brown","Stonehill",3,0,1,0
+6175003,"Sacred Heart","Hofstra",0,3,0,1
+6175004,"Binghamton","Le Moyne",3,0,1,0
+6175005,"Princeton","Santa Clara",0,3,0,1
+6175006,"LSU","Louisiana",3,1,1,0
+6175007,"Southern Ill.","Lindenwood",3,1,1,0
+6175008,"Cleveland St.","Akron",3,1,1,0
+6175009,"Chattanooga","Austin Peay",3,1,1,0
+6175010,"North Texas","SFA",2,3,0,1
+6175011,"Washington St.","UC Irvine",3,0,1,0
+6175012,"Lafayette","Saint Peter's",3,0,1,0
+6175013,"Mississippi Val.","Lane",3,0,1,0
+6175014,"Stony Brook","Columbia",3,0,1,0
+6175015,"SMU","Baylor",3,2,1,0
+6175016,"Dayton","Louisville",2,3,0,1
+6175017,"California","Saint Mary's (CA)",3,1,1,0
+6175018,"Penn","Villanova",2,3,0,1
+6175019,"Bryant","Holy Cross",3,0,1,0
+6175020,"Cornell","Syracuse",1,3,0,1
+6175021,"Georgia","Jacksonville",3,0,1,0
+6175022,"BYU","Towson",3,1,1,0
+6175023,"Prairie View","Weber St.",0,3,0,1
+6175024,"Little Rock","Grambling",3,2,1,0
+6175025,"Army West Point","Samford",3,1,1,0
+6175026,"Memphis","UNLV",0,3,0,1
+6175027,"Montana","Green Bay",3,1,1,0
+6175028,"IUPUI","South Fla.",0,3,0,1
+6175029,"Iona","Fordham",0,3,0,1
+6175030,"Winthrop","Clemson",1,3,0,1
+6175031,"TCU","UNI",2,3,0,1
+6175032,"UNCW","Alabama St.",3,1,1,0
+6175033,"Northeastern","Northern Colo.",3,1,1,0
+6175034,"Samford","Jacksonville",3,0,1,0
+6175035,"BYU","UC Irvine",3,0,1,0
+6175036,"App State","N.C. A&T",3,2,1,0
+6175037,"Idaho St.","Utah Valley",1,3,0,1
+6175038,"UC San Diego","San Diego St.",0,3,0,1
+6175039,"Louisiana Tech","Little Rock",1,3,0,1
+6175040,"Ohio","UTEP",2,3,0,1
+6175041,"Lipscomb","UT Martin",3,2,1,0
+6175042,"Texas St.","Southeastern La.",2,3,0,1
+6175043,"Auburn","Middle Tenn.",1,3,0,1
+6175044,"Ole Miss","Alcorn",3,0,1,0
+6175045,"Portland","Wyoming",2,3,0,1
+6175046,"South Dakota","Drake",2,3,0,1
+6175047,"UConn","Sacred Heart",3,0,1,0
+6175048,"Florida A&M","South Alabama",3,2,1,0
+6175049,"Tulsa","Oral Roberts",3,0,1,0
+6175050,"Northern Ariz.","Arizona St.",0,3,0,1
+6175051,"A&M-Corpus Christi","Prairie View",3,2,1,0
+6175052,"Colgate","West Virginia",3,2,1,0
+6175054,"UCF","Florida St.",3,0,1,0
+6175055,"Wichita St.","Kansas",1,3,0,1
+6175056,"LMU (CA)","Marist",3,0,1,0
+6175057,"Hawaii","Liberty",2,3,0,1
+6175058,"Omaha","Long Beach St.",0,3,0,1
+6175059,"Florida","Sacramento St.",3,2,1,0
+6175060,"Lehigh","Virginia Tech",0,3,0,1
+6175061,"DePaul","NIU",3,0,1,0
+6175062,"Colorado St.","Bowling Green",3,1,1,0
+6175063,"Montana St.","Seattle U",3,1,1,0
+6175064,"Washington","Memphis",3,0,1,0
+6175065,"LIU","Boston College",0,3,0,1
+6175066,"Texas A&M","Utah St.",3,0,1,0
+6175067,"Georgia","Army West Point",3,0,1,0
+6175068,"UCLA","Pepperdine",3,2,1,0
+6175069,"Washington St.","Towson",3,0,1,0
+6175071,"Denver","Navy",0,3,0,1
+6175072,"Hampton","Quinnipiac",0,3,0,1
+6175073,"Cal Poly","New Hampshire",1,3,0,1
+6175074,"Milwaukee","Idaho",3,0,1,0
+6175075,"California","Southeastern La.",3,1,1,0
+6175076,"Belmont","Saint Francis (PA)",1,3,0,1
+6175077,"Chicago St.","Kansas City",3,1,1,0
+6175078,"Loyola Maryland","Stony Brook",3,1,1,0
+6175079,"North Florida","Texas Southern",3,0,1,0
+6175080,"Southern Ill.","Alabama A&M",3,0,1,0
+6175081,"Bethune-Cookman","Youngstown St.",1,3,0,1
+6175082,"Furman","Marshall",1,3,0,1
+6175083,"St. Thomas (MN)","Evansville",3,0,1,0
+6175084,"Buffalo","Missouri",3,0,1,0
+6175085,"Wright St.","UIC",1,3,0,1
+6175086,"Jacksonville St.","Bradley",0,3,0,1
+6175087,"Alcorn","South Dakota St.",0,3,0,1
+6175088,"Gardner-Webb","Quinnipiac",1,3,0,1
+6175089,"Chattanooga","Georgia St.",3,1,1,0
+6175090,"UC Santa Barbara","San Francisco",3,2,1,0
+6175091,"Air Force","CSU Bakersfield",3,2,1,0
+6175092,"Central Ark.","UT Arlington",3,2,1,0
+6175093,"East Carolina","Norfolk St.",3,0,1,0
+6175094,"NC State","William & Mary",3,0,1,0
+6175095,"Southeast Mo. St.","Jackson St.",2,3,0,1
+6175096,"Western Ky.","Troy",3,0,1,0
+6175097,"App State","USC Upstate",3,0,1,0
+6175098,"Georgetown","Old Dominion",3,0,1,0
+6175099,"Utah Tech","Fresno St.",1,3,0,1
+6175100,"Akron","Harvard",3,2,1,0
+6175101,"South Dakota","IUPUI",3,0,1,0
+6175102,"Morehead St.","Indiana St.",3,1,1,0
+6175103,"Charleston So.","Mercer",0,3,0,1
+6175104,"Tarleton St.","Tex. A&M-Commerce",3,0,1,0
+6175105,"Boise St.","SFA",2,3,0,1
+6175106,"Miami (OH)","Saint Louis",0,3,0,1
+6175107,"CSUN","Eastern Wash.",2,3,0,1
+6175108,"Oregon St.","Nevada",3,2,1,0
+6175109,"Oakland","Eastern Mich.",3,1,1,0
+6175110,"Utah","Tennessee St.",3,0,1,0
+6175111,"North Dakota St.","Portland St.",3,0,1,0
+6175112,"George Mason","Brown",1,3,0,1
+6175113,"Fla. Atlantic","UIW",3,0,1,0
+6175114,"Arkansas","Col. of Charleston",3,0,1,0
+6175115,"Arkansas St.","Eastern Ill.",0,3,0,1
+6175116,"Coastal Carolina","Princeton",3,1,1,0
+6175117,"ULM","Southern U.",3,0,1,0
+6175118,"Kent St.","Purdue Fort Wayne",3,1,1,0
+6175120,"Grambling","Lamar University",3,0,1,0
+6175121,"Louisiana","Charlotte",3,0,1,0
+6175122,"St. John's (NY)","Siena",3,1,1,0
+6175123,"Illinois St.","New Mexico St.",0,3,0,1
+6175124,"Eastern Ky.","Murray St.",3,0,1,0
+6175125,"Wofford","Presbyterian",3,0,1,0
+6175126,"Queens (NC)","The Citadel",0,3,0,1
+6175127,"Jacksonville","Army West Point",1,3,0,1
+6175128,"George Washington","North Ala.",2,3,0,1
+6175129,"Southern Ind.","Ark.-Pine Bluff",3,0,1,0
+6175130,"Montana St.","Seattle U",3,0,1,0
+6175131,"Delaware St.","Virginia Tech",0,3,0,1
+6175132,"Ga. Southern","UTSA",0,3,0,1
+6175133,"Missouri St.","Grand Canyon",0,3,0,1
+6175134,"Sacramento St.","Winthrop",3,2,1,0
+6175135,"Butler","Northern Ky.",1,3,0,1
+6175136,"Alabama St.","Norfolk St.",3,2,1,0
+6175137,"New Orleans","Southern U.",3,2,1,0
+6175138,"Campbell","San Jose St.",1,3,0,1
+6175139,"UTEP","William & Mary",3,1,1,0
+6175140,"N.C. A&T","UNC Greensboro",3,0,1,0
+6175141,"Towson","UC Irvine",3,1,1,0
+6175142,"Murray St.","Chattanooga",2,3,0,1
+6175143,"UNLV","FIU",3,0,1,0
+6175144,"Kansas","Colorado",3,1,1,0
+6175145,"TCU","Utah St.",3,0,1,0
+6175146,"Eastern Wash.","Wyoming",0,3,0,1
+6175147,"Furman","South Carolina St.",3,0,1,0
+6175148,"Milwaukee","Western Ill.",3,2,1,0
+6175149,"New Mexico","Montana",1,3,0,1
+6175150,"Cornell","West Virginia",1,3,0,1
+6175151,"Mississippi Val.","Nicholls",0,3,0,1
+6175152,"Mississippi St.","Western Mich.",3,2,1,0
+6175154,"Abilene Christian","Southeastern La.",0,3,0,1
+6175155,"South Alabama","Georgia Tech",0,3,0,1
+6175156,"Drake","IUPUI",3,0,1,0
+6175157,"Kentucky","Houston",3,1,1,0
+6175158,"Mercer","Middle Tenn.",2,3,0,1
+6175159,"Bellarmine","Missouri",0,3,0,1
+6175160,"Prairie View","Tulane",0,3,0,1
+6175161,"Coppin St.","Lafayette",3,0,1,0
+6175162,"Lamar University","Little Rock",2,3,0,1
+6175163,"Binghamton","FDU",3,2,1,0
+6175164,"Tex. A&M-Commerce","Alabama",3,2,1,0
+6175165,"Col. of Charleston","Troy",1,3,0,1
+6175166,"Alabama A&M","Eastern Ill.",0,3,0,1
+6175167,"NIU","Evansville",1,3,0,1
+6175168,"Ark.-Pine Bluff","Bradley",0,3,0,1
+6175169,"Brown","Radford",3,0,1,0
+6175170,"Hofstra","Stonehill",3,1,1,0
+6175171,"New Hampshire","VCU",3,0,1,0
+6175172,"Jackson St.","Sam Houston",2,3,0,1
+6175173,"LIU","Fordham",1,3,0,1
+6175174,"Florida St.","North Texas",3,0,1,0
+6175175,"Alcorn","Tennessee Tech",0,3,0,1
+6175176,"Chicago St.","Eastern Mich.",0,3,0,1
+6175177,"Oral Roberts","Central Ark.",0,3,0,1
+6175178,"Providence","Saint Peter's",3,0,1,0
+6175179,"Bethune-Cookman","UIW",1,3,0,1
+6175180,"Ga. Southern","San Jose St.",3,0,1,0
+6175181,"Indiana St.","Butler",0,3,0,1
+6175182,"Loyola Maryland","Siena",3,0,1,0
+6175183,"CSU Bakersfield","Saint Mary's (CA)",3,1,1,0
+6175184,"Belmont","Presbyterian",3,1,1,0
+6175185,"Cal St. Fullerton","American",3,2,1,0
+6175186,"A&M-Corpus Christi","Weber St.",0,3,0,1
+6175187,"Ball St.","Wright St.",1,3,0,1
+6175188,"Arizona St.","Boise St.",3,0,1,0
+6175189,"Bowling Green","Pacific",2,3,0,1
+6175190,"Denver","San Diego St.",0,3,0,1
+6175191,"Gonzaga","Utah Valley",1,3,0,1
+6175192,"The Citadel","UNC Asheville",3,0,1,0
+6175193,"Charlotte","Texas Southern",3,0,1,0
+6175194,"Texas A&M","UNI",3,0,1,0
+6175195,"San Francisco","Tennessee St.",3,2,1,0
+6175196,"Howard","Virginia",0,3,0,1
+6175197,"Niagara","Kent St.",3,0,1,0
+6175198,"UNCW","East Carolina",0,3,0,1
+6175199,"California Baptist","Nevada",3,2,1,0
+6175200,"Colgate","UAlbany",3,0,1,0
+6175201,"Loyola Chicago","Tennessee",1,3,0,1
+6175202,"Louisiana Tech","Grambling",3,1,1,0
+6175203,"Eastern Ky.","Georgia St.",3,0,1,0
+6175204,"Cleveland St.","Harvard",0,3,0,1
+6175205,"Ohio","NC State",1,3,0,1
+6175206,"Canisius","Kent St.",2,3,0,1
+6175207,"Delaware","Villanova",0,3,0,1
+6175208,"Rice","Houston Christian",3,0,1,0
+6175209,"Elon","Western Caro.",3,0,1,0
+6175210,"UMBC","Princeton",3,1,1,0
+6175211,"Holy Cross","Merrimack",3,1,1,0
+6175212,"George Washington","Old Dominion",3,1,1,0
+6175213,"High Point","ETSU",3,0,1,0
+6175214,"Akron","Bucknell",2,3,0,1
+6175215,"Texas","FGCU",3,0,1,0
+6175216,"Colorado St.","Baylor",0,3,0,1
+6175217,"Portland","CSUN",3,2,1,0
+6175218,"Cincinnati","South Carolina",2,3,0,1
+6175219,"SIUE","Idaho",3,0,1,0
+6175220,"Florida A&M","Stetson",0,3,0,1
+6175221,"UMES","Gardner-Webb",3,1,1,0
+6175222,"UNC Greensboro","USC Upstate",3,0,1,0
+6175223,"UT Martin","Kansas St.",0,3,0,1
+6175224,"Miami (OH)","New Mexico St.",0,3,0,1
+6175225,"McNeese","Southeast Mo. St.",2,3,0,1
+6175226,"Georgia","Samford",3,0,1,0
+6175227,"Austin Peay","Valparaiso",3,1,1,0
+6175228,"Southern Utah","Fresno St.",3,2,1,0
+6175229,"Dartmouth","Seton Hall",3,2,1,0
+6175230,"Xavier","Buffalo",3,2,1,0
+6175231,"Western Ky.","Arkansas",2,3,0,1
+6175232,"Illinois St.","Saint Louis",1,3,0,1
+6175233,"Santa Clara","Air Force",1,3,0,1
+6175234,"Southern California","UC Davis",3,0,1,0
+6175235,"Dayton","UIC",3,2,1,0
+6175236,"Oakland","Kansas City",1,3,0,1
+6175237,"UC San Diego","Navy",0,3,0,1
+6175238,"Southern Ill.","Arkansas St.",0,3,0,1
+6175239,"North Dakota","Green Bay",3,0,1,0
+6175240,"James Madison","Cal Poly",3,0,1,0
+6175241,"Marquette","Pittsburgh",0,3,0,1
+6175242,"Georgetown","North Ala.",3,1,1,0
+6175243,"Campbell","UTSA",3,1,1,0
+6175244,"Hawaii","Pepperdine",3,0,1,0
+6175245,"Tulsa","UT Arlington",3,0,1,0
+6175246,"Omaha","Creighton",0,3,0,1
+6175247,"Texas St.","California",1,3,0,1
+6175248,"Southern Ind.","Jacksonville St.",3,0,1,0
+6175249,"Southern Miss.","Nicholls",3,0,1,0
+6175250,"Florida","Clemson",3,0,1,0
+6175251,"Auburn","Charleston So.",3,1,1,0
+6175252,"Yale","Sacred Heart",3,1,1,0
+6175253,"Iona","Boston College",0,3,0,1
+6175254,"North Dakota St.","Toledo",3,0,1,0
+6175255,"UAB","Tarleton St.",0,3,0,1
+6175256,"Lehigh","Delaware St.",3,1,1,0
+6175257,"DePaul","St. Thomas (MN)",3,0,1,0
+6175258,"Ole Miss","South Dakota St.",3,0,1,0
+6175259,"George Mason","Robert Morris",3,0,1,0
+6175260,"Columbia","Manhattan",3,1,1,0
+6175261,"South Dakota","South Fla.",3,2,1,0
+6175262,"Fla. Atlantic","Youngstown St.",3,0,1,0
+6175263,"Morehead St.","Northern Ky.",2,3,0,1
+6175264,"Washington","UNLV",3,2,1,0
+6175265,"Washington St.","BYU",3,1,1,0
+6175266,"Kennesaw St.","Wake Forest",3,2,1,0
+6175267,"Penn","Lafayette",3,0,1,0
+6175268,"Bryant","Central Conn. St.",3,0,1,0
+6175269,"North Florida","Louisiana",3,2,1,0
+6175270,"St. John's (NY)","Stony Brook",3,0,1,0
+6175271,"Wofford","Saint Francis (PA)",3,1,1,0
+6175272,"Queens (NC)","Marshall",0,3,0,1
+6175273,"Northern Ariz.","SFA",0,3,0,1
+6175274,"FIU","Memphis",2,3,0,1
+6175275,"Liberty","UCLA",0,3,0,1
+6175276,"Utah","UC Santa Barbara",2,3,0,1
+6175277,"San Diego","Marist",3,0,1,0
+6175278,"UC Riverside","Nevada",0,3,0,1
+6175279,"Idaho","Western Ill.",1,3,0,1
+6175280,"Green Bay","New Mexico",0,3,0,1
+6175281,"South Fla.","Drake",0,3,0,1
+6175282,"FDU","Virginia Tech",1,3,0,1
+6175283,"UNI","Utah St.",0,3,0,1
+6175284,"San Jose St.","UTSA",3,1,1,0
+6175285,"South Carolina St.","The Citadel",0,3,0,1
+6175286,"Bellarmine","Buffalo",0,3,0,1
+6175287,"Clemson","Sacramento St.",3,2,1,0
+6175288,"Louisiana","Texas Southern",3,0,1,0
+6175289,"South Dakota St.","Tennessee Tech",1,3,0,1
+6175290,"Gardner-Webb","Hampton",3,0,1,0
+6175291,"Presbyterian","Saint Francis (PA)",3,2,1,0
+6175292,"Dartmouth","Stonehill",3,0,1,0
+6175293,"Arkansas","Troy",3,1,1,0
+6175294,"Sam Houston","Southeast Mo. St.",1,3,0,1
+6175295,"Louisiana Tech","Lamar University",3,1,1,0
+6175296,"Columbia","Morgan St.",3,2,1,0
+6175297,"UTEP","NC State",1,3,0,1
+6175298,"Alabama","Tarleton St.",3,2,1,0
+6175299,"Youngstown St.","UIW",1,3,0,1
+6175300,"USC Upstate","N.C. A&T",3,0,1,0
+6175301,"Alabama A&M","Arkansas St.",0,3,0,1
+6175302,"Harvard","Bucknell",3,0,1,0
+6175303,"Brown","Robert Morris",3,0,1,0
+6175304,"Portland St.","Toledo",3,1,1,0
+6175305,"Arizona St.","SFA",3,0,1,0
+6175306,"Baylor","Bowling Green",3,1,1,0
+6175307,"UAlbany","Cornell",3,1,1,0
+6175308,"Northern Ky.","Indiana St.",3,0,1,0
+6175309,"Boston College","Fordham",3,0,1,0
+6175310,"New Mexico St.","Saint Louis",3,1,1,0
+6175312,"Wyoming","CSUN",3,1,1,0
+6175313,"Bryant","Saint Peter's",3,1,1,0
+6175314,"Stony Brook","Siena",3,0,1,0
+6175315,"Murray St.","Georgia St.",3,0,1,0
+6175316,"South Alabama","Stetson",3,0,1,0
+6175317,"UT Arlington","Oral Roberts",3,0,1,0
+6175318,"Old Dominion","North Ala.",3,2,1,0
+6175319,"California Baptist","Oregon St.",3,2,1,0
+6175320,"Canisius","Purdue Fort Wayne",2,3,0,1
+6175321,"Xavier","Missouri",2,3,0,1
+6175322,"Utah Tech","Fresno St.",2,3,0,1
+6175323,"Lehigh","Binghamton",0,3,0,1
+6175324,"New Orleans","ULM",1,3,0,1
+6175326,"Fla. Atlantic","Bethune-Cookman",3,0,1,0
+6175327,"Middle Tenn.","Charleston So.",3,0,1,0
+6175328,"Coastal Carolina","Virginia",3,0,1,0
+6175329,"Marshall","UNC Asheville",1,3,0,1
+6175330,"NIU","St. Thomas (MN)",2,3,0,1
+6175331,"Valparaiso","Lindenwood",3,1,1,0
+6175332,"Tulane","Weber St.",1,3,0,1
+6175333,"UIC","Ball St.",3,1,1,0
+6175334,"Ark.-Pine Bluff","Jacksonville St.",0,3,0,1
+6175336,"Kansas City","Eastern Mich.",3,0,1,0
+6175337,"California","Abilene Christian",3,0,1,0
+6175338,"Hofstra","Seton Hall",3,1,1,0
+6175339,"Saint Mary's (CA)","Air Force",1,3,0,1
+6175340,"Western Ky.","Col. of Charleston",3,0,1,0
+6175341,"North Florida","Charlotte",3,2,1,0
+6175342,"Southern California","Marist",3,0,1,0
+6175343,"Niagara","Purdue Fort Wayne",2,3,0,1
+6175344,"Dayton","Wright St.",3,0,1,0
+6175345,"McNeese","Jackson St.",2,3,0,1
+6175346,"North Dakota","Montana",3,2,1,0
+6175347,"Wofford","Belmont",3,2,1,0
+6175348,"UCF","North Texas",3,2,1,0
+6175349,"LMU (CA)","American",3,1,1,0
+6175350,"Northern Ariz.","Boise St.",3,2,1,0
+6175351,"Yale","Rhode Island",3,0,1,0
+6175352,"Idaho St.","Gonzaga",0,3,0,1
+6175353,"SIUE","Milwaukee",3,1,1,0
+6175354,"Rhode Island","UConn",2,3,0,1
+6175355,"Alabama St.","East Carolina",1,3,0,1
+6175356,"Eastern Ky.","Chattanooga",3,0,1,0
+6175357,"Campbell","Ga. Southern",2,3,0,1
+6175358,"Colorado St.","Pacific",3,1,1,0
+6175359,"Portland","Eastern Wash.",2,3,0,1
+6175360,"Cincinnati","South Carolina",3,0,1,0
+6175361,"Providence","Central Conn. St.",3,0,1,0
+6175362,"Penn","Coppin St.",0,3,0,1
+6175363,"Tennessee St.","UC Santa Barbara",0,3,0,1
+6175364,"St. John's (NY)","Loyola Maryland",3,0,1,0
+6175365,"Santa Clara","CSU Bakersfield",3,1,1,0
+6175366,"App State","UNC Greensboro",3,0,1,0
+6175367,"James Madison","New Hampshire",3,0,1,0
+6175368,"Ohio","William & Mary",3,1,1,0
+6175369,"Tulsa","Central Ark.",3,1,1,0
+6175370,"Iona","LIU",3,1,1,0
+6175371,"UAB","Tex. A&M-Commerce",1,3,0,1
+6175372,"George Mason","Radford",3,0,1,0
+6175373,"Notre Dame","Oklahoma",3,2,1,0
+6175374,"Morehead St.","Butler",1,3,0,1
+6175375,"UMES","Quinnipiac",3,0,1,0
+6175376,"VCU","Cal Poly",2,3,0,1
+6175377,"Illinois St.","Miami (OH)",2,3,0,1
+6175378,"Queens (NC)","Furman",1,3,0,1
+6175379,"Oakland","Chicago St.",0,3,0,1
+6175380,"UMBC","Howard",3,1,1,0
+6175381,"George Washington","Georgetown",3,1,1,0
+6175382,"Southern Ind.","Bradley",2,3,0,1
+6175383,"Southern Miss.","Mississippi Val.",3,0,1,0
+6175384,"Florida","Winthrop",3,0,1,0
+6175385,"Wake Forest","Western Mich.",1,3,0,1
+6175386,"San Diego St.","Navy",0,3,0,1
+6175387,"Manhattan","Morgan St.",1,3,0,1
+6175388,"Villanova","Rider",3,0,1,0
+6175389,"Central Conn. St.","Saint Peter's",3,2,1,0
+6175390,"UC San Diego","Denver",3,0,1,0
+6175391,"Texas A&M","TCU",1,3,0,1
+6175392,"Utah","San Francisco",3,0,1,0
+6175393,"Holy Cross","NJIT",0,3,0,1
+6175394,"Texas St.","Abilene Christian",3,1,1,0
+6175395,"Ole Miss","Tennessee Tech",3,0,1,0
+6175396,"Central Mich.","Grand Canyon",3,2,1,0
+6175397,"N.C. Central","Western Caro.",1,3,0,1
+6175398,"Davidson","ETSU",3,1,1,0
+6175399,"Binghamton","Delaware St.",1,3,0,1
+6175400,"South Carolina St.","UNC Asheville",0,3,0,1
+6175401,"West Virginia","UAlbany",3,0,1,0
+6175402,"Stonehill","Seton Hall",0,3,0,1
+6175403,"UNCW","Norfolk St.",2,3,0,1
+6175404,"Cleveland St.","Bucknell",2,3,0,1
+6175405,"DePaul","Evansville",3,0,1,0
+6175406,"Lafayette","Penn",3,1,1,0
+6175407,"UC Davis","San Diego",2,3,0,1
+6175408,"Arizona","Miami (FL)",0,3,0,1
+6175409,"Rhode Island","Sacred Heart",1,3,0,1
+6175410,"Providence","Bryant",3,2,1,0
+6175411,"Lipscomb","Kansas St.",3,2,1,0
+6175412,"Rice","FGCU",3,0,1,0
+6175413,"Omaha","Iowa St.",1,3,0,1
+6175414,"New Orleans","Southern U.",1,3,0,1
+6175415,"SIUE","Western Ill.",2,3,0,1
+6175417,"UC Riverside","California Baptist",0,3,0,1
+6175418,"Radford","Robert Morris",1,3,0,1
+6175419,"Georgia Tech","Stetson",3,0,1,0
+6175420,"McNeese","Sam Houston",2,3,0,1
+6175421,"Dartmouth","Hofstra",0,3,0,1
+6175422,"A&M-Corpus Christi","UTRGV",2,3,0,1
+6175423,"Dayton","Ball St.",3,0,1,0
+6175424,"Southern Ill.","Eastern Ill.",1,3,0,1
+6175425,"Wichita St.","Colorado",0,3,0,1
+6175427,"Auburn","Mercer",3,0,1,0
+6175428,"Yale","UConn",3,1,1,0
+6175429,"Xavier","Bellarmine",3,0,1,0
+6175430,"Lehigh","FDU",3,1,1,0
+6175431,"Kennesaw St.","Mississippi St.",3,2,1,0
+6175432,"Colgate","Cornell",3,1,1,0
+6175433,"Baylor","Pacific",3,0,1,0
+6175434,"Tulane","UTRGV",3,1,1,0
+6175435,"Marist","UC Davis",2,3,0,1
+6175436,"Washington","FIU",3,1,1,0
+6175437,"Kennesaw St.","Western Mich.",0,3,0,1
+6175438,"Central Mich.","Missouri St.",3,2,1,0
+6175439,"UMBC","Virginia",1,3,0,1
+6175440,"Loyola Chicago","Pittsburgh",0,3,0,1
+6175441,"Marquette","Tennessee",0,3,0,1
+6175443,"UAB","Alabama",0,3,0,1
+6175444,"LSU","Southeastern La.",1,3,0,1
+6175445,"Southern California","San Diego",3,1,1,0
+6175446,"James Madison","VCU",3,1,1,0
+6175447,"Delaware","Rider",3,1,1,0
+6175448,"Elon","N.C. Central",3,0,1,0
+6175449,"High Point","Davidson",3,1,1,0
+6175450,"Florida A&M","Georgia Tech",0,3,0,1
+6175452,"Houston Christian","FGCU",1,3,0,1
+6175453,"Wake Forest","Mississippi St.",3,0,1,0
+6175454,"Creighton","Iowa St.",3,1,1,0
+6175455,"Hawaii","UCLA",1,3,0,1
+6175456,"Pepperdine","Liberty",3,1,1,0
+6175457,"Texas","Rice",3,0,1,0
+6175458,"Coastal Carolina","UNCW",3,1,1,0
+6175459,"UTRGV","UIW",3,0,1,0
+6175460,"Ga. Southern","UNC Asheville",3,0,1,0
+6175462,"LIU","Delaware St.",2,3,0,1
+6175463,"Milwaukee","DePaul",3,0,1,0
+6175464,"NC State","Charlotte",3,0,1,0
+6175465,"Toledo","Oakland",2,3,0,1
+6175466,"Austin Peay","Western Ky.",0,3,0,1
+6175467,"North Ala.","Alabama A&M",3,1,1,0
+6175469,"Prairie View","Tarleton St.",1,3,0,1
+6175470,"Florida St.","Florida",2,3,0,1
+6175471,"Texas Southern","UT Arlington",0,3,0,1
+6175472,"Jacksonville St.","Chattanooga",1,3,0,1
+6175473,"Weber St.","Utah Valley",3,0,1,0
+6175474,"Northwestern St.","Grambling",3,0,1,0
+6175475,"Kansas","Oral Roberts",3,0,1,0
+6175476,"UNLV","Southern Utah",3,0,1,0
+6175477,"Saint Mary's (CA)","San Jose St.",1,3,0,1
+6175478,"Colgate","Syracuse",3,0,1,0
+6175480,"Sacramento St.","UC Davis",1,3,0,1
+6175481,"Iona","FDU",3,0,1,0
+6175482,"Boston College","Rhode Island",3,0,1,0
+6175483,"NC State","George Washington",3,0,1,0
+6175485,"IUPUI","Southern Ind.",3,1,1,0
+6175486,"Siena","Saint Peter's",3,0,1,0
+6175488,"Lafayette","NJIT",3,0,1,0
+6175489,"N.C. Central","Duke",0,3,0,1
+6175490,"Northern Ariz.","New Mexico",0,3,0,1
+6175491,"Texas A&M","Houston",1,3,0,1
+6175492,"Baylor","Washington St.",1,3,0,1
+6175493,"BYU","Utah",3,1,1,0
+6175494,"Louisville","Kentucky",3,0,1,0
+6175495,"Bryant","Fairfield",2,3,0,1
+6175496,"Lehigh","Villanova",3,1,1,0
+6175497,"Samford","UAB",3,1,1,0
+6175498,"Manhattan","Central Conn. St.",3,1,1,0
+6175499,"Houston","Liberty",3,0,1,0
+6175500,"West Virginia","Old Dominion",0,3,0,1
+6175501,"Youngstown St.","Akron",1,3,0,1
+6175502,"North Dakota St.","Robert Morris",3,0,1,0
+6175503,"Memphis","Arizona St.",0,3,0,1
+6175504,"Denver","Idaho St.",3,0,1,0
+6175505,"Portland","Lamar University",3,0,1,0
+6175506,"CSU Bakersfield","Sacramento St.",0,3,0,1
+6175507,"San Francisco","San Jose St.",3,1,1,0
+6175508,"Kansas St.","LIU",3,0,1,0
+6175509,"N.C. Central","Santa Clara",0,3,0,1
+6175510,"Ohio","Drake",2,3,0,1
+6175511,"Montana","South Dakota St.",3,1,1,0
+6175512,"Wichita St.","Bradley",3,0,1,0
+6175513,"Houston Christian","Clemson",1,3,0,1
+6175514,"Oregon St.","Portland St.",0,3,0,1
+6175515,"Northern Colo.","Omaha",3,2,1,0
+6175516,"Louisiana","Nicholls",3,1,1,0
+6175517,"Eastern Wash.","Gonzaga",3,0,1,0
+6175518,"Milwaukee","Marquette",1,3,0,1
+6175519,"Utah Valley","Utah St.",0,3,0,1
+6175520,"Mississippi St.","Lipscomb",3,0,1,0
+6175521,"SFA","Sam Houston",3,0,1,0
+6175522,"Southern Ill.","UT Martin",3,0,1,0
+6175523,"Eastern Ill.","Missouri",3,0,1,0
+6175524,"TCU","Hawaii",3,1,1,0
+6175525,"Cleveland St.","Kent St.",2,3,0,1
+6175526,"Missouri St.","Lindenwood",3,1,1,0
+6175527,"South Alabama","Auburn",2,3,0,1
+6175528,"Presbyterian","Furman",2,3,0,1
+6175529,"Arizona","Long Beach St.",0,3,0,1
+6175530,"Xavier","Northern Ky.",3,1,1,0
+6175531,"Tennessee St.","UC San Diego",1,3,0,1
+6175532,"Pacific","Fresno St.",3,0,1,0
+6175533,"UT Arlington","North Texas",3,0,1,0
+6175534,"Mercer","Ga. Southern",1,3,0,1
+6175535,"Nevada","Montana St.",3,1,1,0
+6175536,"Troy","Alabama",2,3,0,1
+6175537,"Wright St.","Butler",3,0,1,0
+6175538,"Central Mich.","St. Thomas (MN)",0,3,0,1
+6175539,"Tex. A&M-Commerce","McNeese",0,3,0,1
+6175540,"Iowa St.","UC Santa Barbara",1,3,0,1
+6175541,"Wyoming","Tennessee Tech",3,0,1,0
+6175542,"Tennessee","Chicago St.",3,0,1,0
+6175543,"UIW","UTSA",0,3,0,1
+6175544,"Tulane","UTEP",0,3,0,1
+6175545,"UNLV","Coppin St.",3,0,1,0
+6175546,"UNI","North Dakota",3,0,1,0
+6175547,"Cal Poly","Washington",2,3,0,1
+6175548,"Northwestern St.","Southeastern La.",3,2,1,0
+6175549,"Pittsburgh","Oregon",2,3,0,1
+6175550,"Green Bay","South Dakota",2,3,0,1
+6175551,"Boise St.","LMU (CA)",0,3,0,1
+6175552,"Davidson","App State",3,1,1,0
+6175553,"Harvard","Merrimack",3,0,1,0
+6175554,"Colorado","Colorado St.",2,3,0,1
+6175555,"West Virginia","North Dakota St.",3,0,1,0
+6175556,"Texas Southern","UC Riverside",0,3,0,1
+6175557,"St. John's (NY)","Bryant",3,2,1,0
+6175558,"Hawaii","Western Caro.",3,0,1,0
+6175559,"North Florida","Alabama A&M",3,0,1,0
+6175560,"Florida A&M","The Citadel",2,3,0,1
+6175561,"Austin Peay","Saint Louis",3,1,1,0
+6175562,"Chicago St.","Evansville",3,0,1,0
+6175563,"New Hampshire","Texas St.",2,3,0,1
+6175564,"Little Rock","Southern Miss.",0,3,0,1
+6175565,"Louisiana Tech","Southern U.",3,1,1,0
+6175566,"Arkansas St.","Western Ill.",3,1,1,0
+6175567,"Western Ky.","Ball St.",3,1,1,0
+6175568,"FIU","Jacksonville",3,0,1,0
+6175569,"Chattanooga","Eastern Mich.",3,0,1,0
+6175570,"Fla. Atlantic","Le Moyne",3,0,1,0
+6175571,"Miami (OH)","SIUE",1,3,0,1
+6175572,"Illinois St.","St. Thomas (MN)",3,0,1,0
+6175573,"North Dakota St.","Old Dominion",3,2,1,0
+6175574,"Ole Miss","Tulsa",2,3,0,1
+6175575,"California","Montana St.",3,0,1,0
+6175576,"CSUN","UTRGV",3,0,1,0
+6175577,"Idaho","Marshall",1,3,0,1
+6175578,"Loyola Chicago","UIC",0,3,0,1
+6175579,"Texas A&M","Liberty",3,0,1,0
+6175580,"Kansas","Bellarmine",3,0,1,0
+6175581,"George Mason","Middle Tenn.",2,3,0,1
+6175582,"Dayton","NIU",3,0,1,0
+6175583,"Nicholls","Prairie View",0,3,0,1
+6175584,"Idaho St.","Tennessee Tech",3,1,1,0
+6175585,"Jackson St.","UC San Diego",0,3,0,1
+6175586,"Arkansas","Buffalo",3,0,1,0
+6175587,"Alabama St.","New Mexico St.",1,3,0,1
+6175588,"South Fla.","USC Upstate",3,2,1,0
+6175589,"Boston College","Providence",3,0,1,0
+6175590,"Kansas City","Southeast Mo. St.",2,3,0,1
+6175591,"LMU (CA)","South Dakota St.",3,0,1,0
+6175592,"Oakland","UT Martin",3,2,1,0
+6175593,"Gardner-Webb","Morehead St.",0,3,0,1
+6175594,"ULM","Southeastern La.",1,3,0,1
+6175595,"Drake","UC Santa Barbara",3,0,1,0
+6175596,"ETSU","Western Mich.",0,3,0,1
+6175597,"Butler","Cincinnati",3,2,1,0
+6175598,"Ark.-Pine Bluff","Mississippi Val.",3,0,1,0
+6175599,"California Baptist","UC Irvine",3,2,1,0
+6175600,"LIU","Rice",2,3,0,1
+6175601,"VCU","South Carolina",0,3,0,1
+6175602,"Oral Roberts","UTSA",0,3,0,1
+6175603,"North Texas","Tex. A&M-Commerce",3,0,1,0
+6175604,"Auburn","UAB",3,1,1,0
+6175605,"Fordham","Dartmouth",3,2,1,0
+6175606,"Duquesne","East Carolina",0,3,0,1
+6175607,"Georgetown","Penn",3,0,1,0
+6175608,"Middle Tenn.","Seattle U",3,0,1,0
+6175609,"Omaha","Wichita St.",2,3,0,1
+6175610,"Illinois St.","South Dakota",1,3,0,1
+6175611,"UTEP","Houston Christian",3,0,1,0
+6175612,"CSUN","San Jose St.",0,3,0,1
+6175613,"Pepperdine","Washington",3,0,1,0
+6175614,"Arkansas St.","Lindenwood",3,1,1,0
+6175615,"Lipscomb","Abilene Christian",3,1,1,0
+6175616,"Fresno St.","Sacramento St.",3,0,1,0
+6175617,"SIUE","Valparaiso",3,1,1,0
+6175618,"Old Dominion","Robert Morris",3,0,1,0
+6175619,"SFA","Tulsa",3,1,1,0
+6175620,"Eastern Ill.","Missouri",1,3,0,1
+6175621,"Kent St.","Youngstown St.",1,3,0,1
+6175622,"South Carolina St.","The Citadel",0,3,0,1
+6175623,"Merrimack","Providence",0,3,0,1
+6175624,"A&M-Corpus Christi","LSU",0,3,0,1
+6175625,"Saint Louis","Southeast Mo. St.",1,3,0,1
+6175626,"Lamar University","Coppin St.",0,3,0,1
+6175627,"Arizona St.","Little Rock",3,0,1,0
+6175628,"Southern U.","ULM",2,3,0,1
+6175629,"Columbia","Bryant",1,3,0,1
+6175630,"Long Beach St.","Alabama St.",3,0,1,0
+6175631,"USC Upstate","Alabama A&M",3,1,1,0
+6175632,"George Washington","Wofford",2,3,0,1
+6175633,"Temple","Sacred Heart",3,0,1,0
+6175634,"Oklahoma","UCLA",3,2,1,0
+6175635,"Northern Colo.","Bradley",3,1,1,0
+6175636,"NIU","North Dakota",3,0,1,0
+6175637,"Creighton","High Point",3,0,1,0
+6175638,"James Madison","Oregon",2,3,0,1
+6175639,"Western Ky.","ETSU",3,0,1,0
+6175640,"Louisiana","New Orleans",3,1,1,0
+6175641,"Virginia Tech","Queens (NC)",3,1,1,0
+6175642,"Milwaukee","Air Force",3,2,1,0
+6175643,"North Carolina","Santa Clara",3,1,1,0
+6175644,"Gonzaga","San Diego St.",0,3,0,1
+6175645,"Cal St. Fullerton","Grand Canyon",0,3,0,1
+6175646,"Utah Valley","BYU",0,3,0,1
+6175647,"Cal Poly","Saint Mary's (CA)",3,2,1,0
+6175648,"Ga. Southern","Bethune-Cookman",3,0,1,0
+6175649,"Loyola Chicago","DePaul",0,3,0,1
+6175650,"Green Bay","Central Mich.",0,3,0,1
+6175651,"Marist","Siena",3,0,1,0
+6175652,"TCU","Florida St.",3,1,1,0
+6175653,"Indiana St.","IUPUI",1,3,0,1
+6175654,"Belmont","UC San Diego",2,3,0,1
+6175655,"Missouri St.","Western Ill.",3,2,1,0
+6175656,"South Alabama","Samford",3,0,1,0
+6175657,"Memphis","Southern Miss.",0,3,0,1
+6175658,"UIW","Oral Roberts",3,1,1,0
+6175659,"Arizona","New Mexico St.",3,1,1,0
+6175660,"Southern Utah","Marshall",1,3,0,1
+6175661,"Tarleton St.","UC Riverside",3,1,1,0
+6175662,"North Ala.","Central Ark.",3,1,1,0
+6175663,"Winthrop","Eastern Ky.",0,3,0,1
+6175664,"Tennessee St.","Jackson St.",2,3,0,1
+6175665,"Akron","Cleveland St.",2,3,0,1
+6175666,"Kansas","New Hampshire",3,0,1,0
+6175667,"Pacific","CSU Bakersfield",3,0,1,0
+6175668,"UT Arlington","McNeese",3,1,1,0
+6175669,"San Francisco","UTRGV",3,0,1,0
+6175670,"Troy","Grambling",3,0,1,0
+6175671,"West Virginia","Robert Morris",3,1,1,0
+6175672,"Kennesaw St.","Northern Ky.",3,2,1,0
+6175673,"Wake Forest","App State",3,2,1,0
+6175674,"Bellarmine","Texas St.",0,3,0,1
+6175675,"Sam Houston","Ole Miss",0,3,0,1
+6175676,"New Mexico","Northern Ariz.",3,0,1,0
+6175677,"Iowa St.","Ohio",3,0,1,0
+6175678,"Duke","Coastal Carolina",3,0,1,0
+6175679,"Tennessee","Evansville",3,0,1,0
+6175680,"UNC Greensboro","Charlotte",2,3,0,1
+6175681,"Utah Tech","Idaho",3,1,1,0
+6175682,"Notre Dame","Toledo",3,1,1,0
+6175683,"Tulane","Clemson",0,3,0,1
+6175684,"UNLV","Portland",3,1,1,0
+6175685,"UNI","Dayton",0,3,0,1
+6175686,"SMU","Texas Tech",3,2,1,0
+6175687,"Virginia","Norfolk St.",3,0,1,0
+6175688,"Bucknell","Army West Point",0,3,0,1
+6175689,"Loyola Maryland","Navy",1,3,0,1
+6175690,"Northwestern St.","Louisiana Tech",3,0,1,0
+6175691,"Villanova","Sacred Heart",3,0,1,0
+6175692,"Utah","Weber St.",3,1,1,0
+6175693,"Charleston So.","Florida A&M",1,3,0,1
+6175694,"Purdue Fort Wayne","Miami (OH)",1,3,0,1
+6175695,"Boise St.","South Dakota St.",3,0,1,0
+6175696,"Furman","Georgia St.",3,1,1,0
+6175697,"Chattanooga","Morehead St.",3,0,1,0
+6175698,"Boston College","Harvard",3,0,1,0
+6175699,"Kansas City","Austin Peay",3,1,1,0
+6175700,"Colorado St.","Colorado",2,3,0,1
+6175701,"Cornell","Morgan St.",3,0,1,0
+6175702,"George Mason","UAlbany",1,3,0,1
+6175703,"FIU","Stetson",3,1,1,0
+6175704,"Georgia Tech","Georgia",1,3,0,1
+6175705,"FGCU","Fla. Atlantic",3,0,1,0
+6175706,"Delaware St.","NJIT",3,0,1,0
+6175707,"Lafayette","Holy Cross",3,1,1,0
+6175708,"Texas Southern","UMES",1,3,0,1
+6175709,"North Florida","South Fla.",1,3,0,1
+6175710,"St. John's (NY)","Arkansas",1,3,0,1
+6175711,"Texas","Washington St.",1,3,0,1
+6175712,"Arizona St.","Southern Miss.",3,0,1,0
+6175713,"Alabama A&M","South Fla.",0,3,0,1
+6175714,"Ohio","UC Santa Barbara",1,3,0,1
+6175715,"LMU (CA)","Montana",3,0,1,0
+6175716,"Eastern Mich.","Gardner-Webb",1,3,0,1
+6175717,"Jackson St.","Belmont",0,3,0,1
+6175718,"Southern U.","Southeastern La.",0,3,0,1
+6175719,"New Mexico St.","Long Beach St.",1,3,0,1
+6175720,"Bellarmine","New Hampshire",1,3,0,1
+6175721,"Saint Mary's (CA)","Washington",1,3,0,1
+6175722,"Delaware","Campbell",3,1,1,0
+6175723,"Purdue Fort Wayne","SIUE",1,3,0,1
+6175724,"Rhode Island","American",3,2,1,0
+6175725,"FGCU","Le Moyne",3,0,1,0
+6175726,"UNLV","Lamar University",3,0,1,0
+6175727,"Ball St.","ETSU",3,0,1,0
+6175728,"Georgetown","NJIT",3,0,1,0
+6175729,"UAlbany","Middle Tenn.",0,3,0,1
+6175730,"Central Ark.","Mississippi Val.",3,0,1,0
+6175731,"Austin Peay","Southeast Mo. St.",1,3,0,1
+6175732,"New Orleans","Prairie View",0,3,0,1
+6175733,"Miami (FL)","Stetson",3,0,1,0
+6175734,"Tulsa","Sam Houston",3,2,1,0
+6175735,"Buffalo","Columbia",3,0,1,0
+6175736,"Eastern Wash.","San Diego St.",0,3,0,1
+6175737,"SMU","A&M-Corpus Christi",3,1,1,0
+6175738,"Northwestern St.","ULM",3,0,1,0
+6175739,"Utah Tech","Marshall",2,3,0,1
+6175740,"Bradley","Omaha",0,3,0,1
+6175741,"Charlotte","UNC Asheville",3,2,1,0
+6175742,"Auburn","Samford",3,1,1,0
+6175743,"Southern Utah","Idaho",3,0,1,0
+6175744,"CSU Bakersfield","Fresno St.",2,3,0,1
+6175745,"Arizona","Alabama St.",3,0,1,0
+6175746,"Eastern Mich.","Morehead St.",1,3,0,1
+6175747,"Fairfield","Canisius",3,0,1,0
+6175748,"Southern Ill.","Oakland",3,1,1,0
+6175749,"Wyoming","Idaho St.",3,1,1,0
+6175750,"Hofstra","Elon",3,0,1,0
+6175751,"Missouri St.","Arkansas St.",1,3,0,1
+6175752,"Marquette","Air Force",3,0,1,0
+6175753,"Boise St.","Montana",3,1,1,0
+6175754,"Kansas St.","Rice",0,3,0,1
+6175755,"Iona","Rider",3,1,1,0
+6175756,"North Ala.","Ark.-Pine Bluff",3,0,1,0
+6175757,"Kansas","Texas St.",3,0,1,0
+6175758,"Nevada","California",1,3,0,1
+6175759,"Hampton","Towson",0,3,0,1
+6175760,"Stony Brook","Northeastern",1,3,0,1
+6175761,"Quinnipiac","Niagara",3,0,1,0
+6175762,"Manhattan","Saint Peter's",3,1,1,0
+6175763,"North Dakota","Dayton",0,3,0,1
+6175764,"Florida St.","Hawaii",0,3,0,1
+6175765,"Central Mich.","South Dakota",0,3,0,1
+6175766,"Coppin St.","Portland",3,1,1,0
+6175767,"Clemson","UTEP",3,2,1,0
+6175768,"Bryant","Arkansas",0,3,0,1
+6175769,"San Jose St.","UTRGV",3,2,1,0
+6175770,"Bethune-Cookman","Mercer",0,3,0,1
+6175771,"Western Ky.","Western Mich.",3,1,1,0
+6175772,"Cal Poly","Pepperdine",0,3,0,1
+6175773,"SFA","Ole Miss",3,1,1,0
+6175774,"Delaware St.","Penn",3,1,1,0
+6175775,"Valparaiso","Miami (OH)",3,0,1,0
+6175776,"Binghamton","Brown",2,3,0,1
+6175777,"UNI","NIU",3,0,1,0
+6175778,"Louisiana","Prairie View",3,0,1,0
+6175779,"Green Bay","Illinois St.",0,3,0,1
+6175780,"Iowa St.","Drake",3,0,1,0
+6175781,"Memphis","Little Rock",3,1,1,0
+6175782,"Presbyterian","Georgia St.",3,2,1,0
+6175783,"Oklahoma","UCLA",1,3,0,1
+6175784,"San Francisco","CSUN",3,2,1,0
+6175785,"William & Mary","Col. of Charleston",3,2,1,0
+6175786,"Chattanooga","Gardner-Webb",2,3,0,1
+6175787,"Syracuse","Morgan St.",3,0,1,0
+6175788,"Tarleton St.","Texas Southern",3,0,1,0
+6175789,"Kansas City","Saint Louis",2,3,0,1
+6175790,"George Mason","Seattle U",2,3,0,1
+6175791,"Wright St.","Cincinnati",1,3,0,1
+6175792,"North Florida","USC Upstate",2,3,0,1
+6175793,"LSU","Texas Tech",3,0,1,0
+6175794,"Grand Canyon","UC Irvine",3,0,1,0
+6175795,"Southeastern La.","Louisiana Tech",3,0,1,0
+6175796,"Eastern Ky.","VCU",3,1,1,0
+6175797,"American","Stonehill",3,0,1,0
+6175798,"McNeese","North Texas",0,3,0,1
+6175799,"Charleston So.","The Citadel",2,3,0,1
+6175800,"Pacific","Sacramento St.",3,1,1,0
+6175801,"Tulane","Houston Christian",1,3,0,1
+6175802,"Dartmouth","FDU",3,0,1,0
+6175803,"Ark.-Pine Bluff","Central Ark.",0,3,0,1
+6175804,"South Alabama","UAB",3,1,1,0
+6175805,"UNCW","N.C. A&T",3,0,1,0
+6175806,"Bucknell","Colgate",1,3,0,1
+6175807,"Loyola Chicago","Yale",1,3,0,1
+6175808,"Xavier","Kennesaw St.",3,0,1,0
+6175809,"Davidson","Wake Forest",2,3,0,1
+6175810,"Lehigh","Holy Cross",3,0,1,0
+6175811,"Georgia Tech","Howard",3,0,1,0
+6175812,"NJIT","Penn",1,3,0,1
+6175813,"Saint Francis (PA)","Temple",1,3,0,1
+6175814,"St. John's (NY)","Buffalo",1,3,0,1
+6175815,"Mississippi St.","Abilene Christian",3,1,1,0
+6175816,"North Ala.","Mississippi Val.",3,0,1,0
+6175817,"Alabama","Grambling",3,0,1,0
+6175818,"Lafayette","Army West Point",0,3,0,1
+6175819,"Gonzaga","Eastern Wash.",1,3,0,1
+6175820,"Cal St. Fullerton","California Baptist",1,3,0,1
+6175821,"TCU","Western Caro.",3,0,1,0
+6175822,"Belmont","Tennessee St.",3,1,1,0
+6175823,"Tarleton St.","UMES",3,1,1,0
+6175824,"Winthrop","South Carolina",3,1,1,0
+6175825,"DePaul","UIC",3,1,1,0
+6175826,"UT Arlington","Tex. A&M-Commerce",3,0,1,0
+6175827,"Northern Colo.","Wichita St.",1,3,0,1
+6175828,"Georgia","San Diego",1,3,0,1
+6175829,"UAlbany","Seattle U",1,3,0,1
+6175830,"UNC Greensboro","UNC Asheville",2,3,0,1
+6175831,"Pittsburgh","James Madison",3,0,1,0
+6175832,"Villanova","Saint Francis (PA)",3,0,1,0
+6175833,"Charleston So.","South Carolina St.",3,0,1,0
+6175834,"Utah St.","BYU",0,3,0,1
+6175835,"Purdue Fort Wayne","Valparaiso",0,3,0,1
+6175836,"Portland St.","Oregon St.",3,1,1,0
+6175837,"Rhode Island","Stonehill",3,0,1,0
+6175838,"Harvard","Providence",3,2,1,0
+6175839,"Delaware St.","Georgetown",2,3,0,1
+6175840,"UConn","Binghamton",3,2,1,0
+6175841,"Florida A&M","South Carolina St.",3,0,1,0
+6175842,"Miami (FL)","Jacksonville",3,0,1,0
+6175843,"UC Riverside","UMES",1,3,0,1
+6175844,"Duke","Santa Clara",3,0,1,0
+6175845,"Louisville","Stanford",2,3,0,1
+6175846,"Boston College","Stonehill",3,0,1,0
+6175847,"SMU","LSU",3,0,1,0
+6175848,"North Carolina","Coastal Carolina",3,0,1,0
+6175849,"Fairfield","Niagara",3,0,1,0
+6175850,"Toledo","Notre Dame",0,3,0,1
+6175851,"Pittsburgh","High Point",3,0,1,0
+6175852,"Hofstra","Elon",3,1,1,0
+6175853,"Marquette","Oregon",0,3,0,1
+6175854,"Delaware","Campbell",1,3,0,1
+6175855,"Fordham","FDU",3,1,1,0
+6175856,"Iona","Saint Peter's",3,0,1,0
+6175857,"Hampton","Towson",1,3,0,1
+6175858,"Stony Brook","Northeastern",2,3,0,1
+6175859,"Quinnipiac","Canisius",3,0,1,0
+6175860,"Georgia Tech","San Diego",3,0,1,0
+6175861,"UMBC","Seton Hall",3,1,1,0
+6175862,"UNCW","N.C. A&T",3,0,1,0
+6175863,"William & Mary","Col. of Charleston",3,2,1,0
+6175864,"Colorado","Denver",3,1,1,0
+6175865,"Manhattan","Rider",1,3,0,1
+6175866,"Howard","Georgia",1,3,0,1
+6175867,"A&M-Corpus Christi","Texas Tech",1,3,0,1
+6175868,"Boston College","Merrimack",3,0,1,0
+6175869,"Lehigh","Colgate",0,3,0,1
+6175870,"UConn","Brown",0,3,0,1
+6175871,"Eastern Ill.","Southern Ind.",3,2,1,0
+6175872,"LeMoyne-Owen","Mississippi Val.",1,3,0,1
+6175873,"Morgan St.","Bowie St.",3,0,1,0
+6175874,"Old Dominion","Liberty",3,2,1,0
+6175875,"Florida St.","North Florida",3,0,1,0
+6175876,"Howard","American",3,1,1,0
+6175877,"Baylor","SFA",3,0,1,0
+6175878,"Lipscomb","Belmont",3,0,1,0
+6175879,"Purdue Fort Wayne","Oakland",0,3,0,1
+6175880,"IUPUI","Cleveland St.",0,3,0,1
+6175881,"Youngstown St.","Northern Ky.",1,3,0,1
+6175882,"Chicago St.","Milwaukee",2,3,0,1
+6175883,"CSU Bakersfield","CSUN",3,2,1,0
+6175884,"Robert Morris","Wright St.",1,3,0,1
+6175885,"McNeese","ULM",3,1,1,0
+6175886,"UNLV","San Diego St.",3,2,1,0
+6175887,"California","Stanford",0,3,0,1
+6175889,"SMU","Memphis",3,0,1,0
+6175890,"Pittsburgh","UMBC",3,0,1,0
+6175891,"East Carolina","Wichita St.",0,3,0,1
+6175892,"Temple","Tulsa",0,3,0,1
+6175893,"Lindenwood","Western Ill.",0,3,0,1
+6175894,"Eastern Ky.","Bellarmine",3,0,1,0
+6175895,"Marist","Rider",3,0,1,0
+6175896,"Rice","UAB",3,0,1,0
+6175897,"South Fla.","Tulane",3,2,1,0
+6175898,"NJIT","Manhattan",3,0,1,0
+6175899,"Charlotte","UTSA",0,3,0,1
+6175900,"Butler","Xavier",0,3,0,1
+6175901,"North Texas","Fla. Atlantic",3,0,1,0
+6175902,"Clemson","Georgia Tech",1,3,0,1
+6175903,"UCLA","Southern California",2,3,0,1
+6175904,"Texas A&M","Mississippi St.",3,0,1,0
+6175905,"BYU","Houston",3,0,1,0
+6175906,"Merrimack","Bryant",0,3,0,1
+6175907,"Montana","Weber St.",1,3,0,1
+6175908,"Tennessee","Missouri",3,0,1,0
+6175910,"Louisiana","Troy",0,3,0,1
+6175911,"Santa Clara","Portland",2,3,0,1
+6175912,"Bowling Green","NIU",3,1,1,0
+6175913,"Western Caro.","ETSU",3,2,1,0
+6175914,"Toledo","Eastern Mich.",3,2,1,0
+6175915,"Idaho","Montana St.",0,3,0,1
+6175916,"South Alabama","Southern Miss.",3,0,1,0
+6175917,"Denver","North Dakota",3,0,1,0
+6175918,"UIW","Southeastern La.",0,3,0,1
+6175919,"Texas St.","ULM",3,1,1,0
+6175920,"Idaho St.","Portland St.",1,3,0,1
+6175921,"Marshall","Old Dominion",1,3,0,1
+6175922,"Abilene Christian","Seattle U",3,0,1,0
+6175924,"Utah Tech","California Baptist",0,3,0,1
+6175925,"Fresno St.","Air Force",1,3,0,1
+6175926,"Ball St.","Central Mich.",3,0,1,0
+6175927,"UT Arlington","UTRGV",1,3,0,1
+6175928,"Cincinnati","UCF",1,3,0,1
+6175929,"Nevada","New Mexico",2,3,0,1
+6175930,"Northern Colo.","Eastern Wash.",3,0,1,0
+6175931,"UNLV","San Jose St.",2,0,0,0
+6175933,"Southern Utah","Grand Canyon",0,3,0,1
+6175934,"Nicholls","Houston Christian",0,3,0,1
+6175935,"Kansas St.","TCU",0,3,0,1
+6175936,"A&M-Corpus Christi","Lamar University",3,0,1,0
+6175937,"New Orleans","Northwestern St.",0,3,0,1
+6175938,"Sacramento St.","Northern Ariz.",3,0,1,0
+6175939,"Utah St.","Wyoming",3,2,1,0
+6175940,"Oral Roberts","North Dakota St.",1,3,0,1
+6175941,"LMU (CA)","Saint Mary's (CA)",3,0,1,0
+6175942,"Miami (OH)","Western Mich.",0,3,0,1
+6175943,"Boise St.","Colorado St.",3,2,1,0
+6175944,"St. Thomas (MN)","South Dakota St.",0,3,0,1
+6175945,"Omaha","Kansas City",2,3,0,1
+6175946,"San Francisco","Gonzaga",3,0,1,0
+6175947,"Arizona St.","Arizona",3,0,1,0
+6175948,"Pepperdine","Pacific",3,0,1,0
+6175951,"FDU","Sacred Heart",1,3,0,1
+6175953,"Merrimack","Saint Francis (PA)",3,2,1,0
+6175954,"LIU","Central Conn. St.",3,2,1,0
+6175955,"Western Ky.","UTEP",2,1,0,0
+6175956,"Louisiana","Troy",0,3,0,1
+6175957,"Norfolk St.","N.C. Central",3,0,1,0
+6175958,"Illinois St.","Drake",1,3,0,1
+6175959,"Howard","South Carolina St.",3,0,1,0
+6175961,"Virginia Tech","Florida St.",2,3,0,1
+6175962,"Milwaukee","IUPUI",3,0,1,0
+6175963,"North Carolina","Virginia",3,0,1,0
+6175964,"Bradley","UNI",0,3,0,1
+6175965,"Bowling Green","NIU",2,3,0,1
+6175967,"Saint Louis","VCU",2,3,0,1
+6175968,"Cal St. Fullerton","UC Davis",2,3,0,1
+6175969,"UIC","Southern Ill.",1,3,0,1
+6175970,"Colgate","Navy",3,2,1,0
+6175971,"Ga. Southern","Arkansas St.",3,0,1,0
+6175973,"Loyola Chicago","Dayton",1,3,0,1
+6175974,"Valparaiso","Missouri St.",3,2,1,0
+6175975,"Western Caro.","Furman",2,3,0,1
+6175976,"Toledo","Eastern Mich.",3,0,1,0
+6175979,"Belmont","Indiana St.",3,0,1,0
+6175981,"Seton Hall","Providence",3,0,1,0
+6175982,"South Alabama","Southern Miss.",3,1,1,0
+6175983,"Jackson St.","Mississippi Val.",3,1,1,0
+6175984,"Charleston So.","Presbyterian",1,3,0,1
+6175985,"FIU","Louisiana Tech",3,0,1,0
+6175986,"Fordham","Duquesne",3,2,1,0
+6175988,"Holy Cross","American",1,3,0,1
+6175989,"Texas St.","ULM",3,1,1,0
+6175990,"Rhode Island","George Mason",1,3,0,1
+6175991,"Oklahoma","Texas",0,3,0,1
+6175992,"Marshall","Old Dominion",3,0,1,0
+6175993,"Southern Ind.","Little Rock",3,1,1,0
+6175994,"Chattanooga","The Citadel",1,3,0,1
+6175995,"North Ala.","Austin Peay",3,0,1,0
+6175996,"Tennessee Tech","Tennessee St.",2,3,0,1
+6175997,"Ball St.","Central Mich.",3,0,1,0
+6175998,"Butler","Creighton",0,3,0,1
+6175999,"New Mexico St.","Middle Tenn.",3,0,1,0
+6176000,"Ole Miss","Alabama",3,0,1,0
+6176001,"Murray St.","Evansville",3,0,1,0
+6176002,"Cincinnati","UCF",0,3,0,1
+6176003,"Mercer","Wofford",0,3,0,1
+6176004,"Southeast Mo. St.","Morehead St.",3,1,1,0
+6176005,"UC Irvine","UC Riverside",3,0,1,0
+6176006,"Kent St.","Buffalo",0,3,0,1
+6176007,"Delaware St.","Coppin St.",1,3,0,1
+6176008,"Georgia St.","Coastal Carolina",1,3,0,1
+6176009,"Central Ark.","Lipscomb",2,3,0,1
+6176010,"Florida A&M","Alabama St.",1,3,0,1
+6176011,"Stetson","North Florida",3,2,1,0
+6176012,"Jacksonville St.","Sam Houston",3,0,1,0
+6176014,"West Virginia","Iowa St.",0,3,0,1
+6176015,"Duke","Pittsburgh",0,3,0,1
+6176016,"Auburn","Florida",2,3,0,1
+6176017,"Kansas St.","TCU",3,2,1,0
+6176019,"St. John's (NY)","UConn",3,0,1,0
+6176020,"Clemson","NC State",0,3,0,1
+6176022,"UC San Diego","UC Santa Barbara",0,3,0,1
+6176023,"Marquette","Villanova",3,0,1,0
+6176024,"Wake Forest","Miami (FL)",3,1,1,0
+6176026,"Louisville","Syracuse",3,0,1,0
+6176027,"Penn","Princeton",1,3,0,1
+6176028,"Miami (OH)","Western Mich.",0,3,0,1
+6176029,"Hawaii","CSU Bakersfield",3,0,1,0
+6176030,"Towson","Delaware",2,3,0,1
+6176031,"High Point","Radford",3,0,1,0
+6176032,"Yale","Brown",3,2,1,0
+6176033,"Lehigh","Bucknell",2,3,0,1
+6176034,"DePaul","Georgetown",0,3,0,1
+6176035,"Arkansas","South Carolina",3,0,1,0
+6176036,"Samford","UNC Greensboro",3,1,1,0
+6176037,"Army West Point","Loyola Maryland",3,0,1,0
+6176038,"FGCU","Jacksonville",3,2,1,0
+6176040,"Dartmouth","Harvard",1,3,0,1
+6176041,"Kentucky","LSU",3,1,1,0
+6176042,"Utah St.","Colorado St.",3,1,1,0
+6176043,"Denver","North Dakota St.",3,0,1,0
+6176044,"Lamar University","Tex. A&M-Commerce",2,3,0,1
+6176045,"Western Ky.","UTEP",3,0,1,0
+6176046,"SFA","UTRGV",3,0,1,0
+6176047,"Canisius","Manhattan",3,0,1,0
+6176048,"Boise St.","Wyoming",3,1,1,0
+6176049,"San Diego","Saint Mary's (CA)",3,0,1,0
+6176051,"Davidson","George Washington",3,1,1,0
+6176052,"Pepperdine","LMU (CA)",3,1,1,0
+6176053,"Nevada","Air Force",0,3,0,1
+6176054,"Loyola Chicago","Dayton",0,3,0,1
+6176055,"Santa Clara","Gonzaga",3,1,1,0
+6176056,"App State","James Madison",1,3,0,1
+6176057,"Niagara","Iona",3,1,1,0
+6176058,"Ga. Southern","Arkansas St.",1,3,0,1
+6176059,"Northwestern St.","Nicholls",3,0,1,0
+6176060,"McNeese","New Orleans",3,0,1,0
+6176061,"Eastern Ky.","Kennesaw St.",3,2,1,0
+6176062,"Marist","Quinnipiac",2,3,0,1
+6176063,"Memphis","South Fla.",0,3,0,1
+6176064,"San Diego St.","San Jose St.",3,1,1,0
+6176065,"BYU","Baylor",3,0,1,0
+6176066,"FIU","Louisiana Tech",3,0,1,0
+6176067,"Oral Roberts","North Dakota",2,3,0,1
+6176068,"Campbell","William & Mary",3,0,1,0
+6176070,"San Francisco","Portland",3,1,1,0
+6176071,"Houston Christian","UIW",3,0,1,0
+6176072,"Abilene Christian","Utah Valley",2,3,0,1
+6176073,"Tarleton St.","Seattle U",3,0,1,0
+6176074,"A&M-Corpus Christi","Southeastern La.",0,3,0,1
+6176075,"Utah Tech","Grand Canyon",0,3,0,1
+6176076,"Fresno St.","New Mexico",3,1,1,0
+6176077,"Kansas City","South Dakota St.",3,2,1,0
+6176078,"Rider","Saint Peter's",3,0,1,0
+6176079,"New Mexico St.","Middle Tenn.",3,2,1,0
+6176080,"Georgia St.","Coastal Carolina",2,3,0,1
+6176081,"Murray St.","Indiana St.",3,1,1,0
+6176083,"Eastern Wash.","Montana",0,3,0,1
+6176084,"Saint Louis","VCU",1,3,0,1
+6176085,"Texas Tech","Kansas",0,3,0,1
+6176086,"UT Martin","Eastern Ill.",1,3,0,1
+6176087,"Fordham","Duquesne",0,3,0,1
+6176088,"Elon","UNCW",0,3,0,1
+6176089,"Siena","Fairfield",0,3,0,1
+6176090,"Northeastern","Hofstra",1,3,0,1
+6176091,"Rhode Island","George Mason",1,3,0,1
+6176092,"Southern Ind.","Little Rock",3,0,1,0
+6176093,"UAB","East Carolina",0,3,0,1
+6176094,"Tennessee Tech","Tennessee St.",2,3,0,1
+6176095,"N.C. A&T","Hampton",3,0,1,0
+6176096,"Southeast Mo. St.","Morehead St.",3,0,1,0
+6176097,"Tulane","North Texas",0,3,0,1
+6176099,"UIC","Missouri St.",3,0,1,0
+6176101,"Holy Cross","Navy",0,3,0,1
+6176102,"Florida A&M","Alabama A&M",3,0,1,0
+6176103,"Milwaukee","Purdue Fort Wayne",3,0,1,0
+6176104,"Oakland","Robert Morris",3,0,1,0
+6176105,"Cal St. Fullerton","UC Riverside",0,3,0,1
+6176106,"Colgate","Loyola Maryland",3,0,1,0
+6176108,"Cleveland St.","Youngstown St.",3,1,1,0
+6176109,"Ohio","Akron",3,1,1,0
+6176110,"Chattanooga","Wofford",0,3,0,1
+6176111,"Bellarmine","Queens (NC)",3,2,1,0
+6176112,"USC Upstate","UNC Asheville",3,0,1,0
+6176114,"ETSU","Furman",2,3,0,1
+6176115,"UC Irvine","UC Davis",2,3,0,1
+6176116,"Kent St.","Buffalo",2,3,0,1
+6176117,"Gardner-Webb","Winthrop",1,3,0,1
+6176118,"Wright St.","Northern Ky.",3,1,1,0
+6176119,"Merrimack","Le Moyne",3,1,1,0
+6176120,"LIU","Sacred Heart",2,3,0,1
+6176121,"St. John's (NY)","Providence",3,0,1,0
+6176122,"Illinois St.","UNI",0,3,0,1
+6176126,"Seton Hall","UConn",3,0,1,0
+6176128,"Xavier","Creighton",3,2,1,0
+6176129,"Columbia","Cornell",1,3,0,1
+6176130,"Stonehill","Saint Francis (PA)",1,3,0,1
+6176131,"Lindenwood","SIUE",3,1,1,0
+6176132,"Valparaiso","Southern Ill.",3,0,1,0
+6176134,"Oklahoma","Texas",0,3,0,1
+6176135,"New Hampshire","Dartmouth",3,1,1,0
+6176136,"DePaul","Villanova",3,2,1,0
+6176137,"UTSA","SMU",1,3,0,1
+6176139,"Mercer","UNC Greensboro",3,0,1,0
+6176140,"Fla. Atlantic","Temple",1,3,0,1
+6176141,"Stetson","Jacksonville",3,1,1,0
+6176142,"Northern Ariz.","Idaho",3,0,1,0
+6176143,"UC San Diego","Cal Poly",2,3,0,1
+6176145,"Omaha","South Dakota",3,1,1,0
+6176146,"Portland St.","Northern Colo.",3,1,1,0
+6176147,"Montana St.","Idaho St.",3,0,1,0
+6176148,"Samford","The Citadel",0,3,0,1
+6176149,"Long Beach St.","UC Santa Barbara",1,3,0,1
+6176151,"Virginia Tech","Miami (FL)",1,3,0,1
+6176153,"Canisius","Iona",2,3,0,1
+6176154,"Bethune-Cookman","Alabama St.",1,3,0,1
+6176155,"UAB","East Carolina",2,3,0,1
+6176156,"Notre Dame","Syracuse",3,0,1,0
+6176157,"Colorado","Stanford",0,3,0,1
+6176158,"Norfolk St.","South Carolina St.",3,1,1,0
+6176159,"Howard","N.C. Central",3,0,1,0
+6176160,"Southern California","Oregon St.",3,0,1,0
+6176161,"Niagara","Manhattan",3,1,1,0
+6176162,"North Carolina","Pittsburgh",0,3,0,1
+6176163,"Marist","Fairfield",3,2,1,0
+6176164,"Duke","Virginia",3,0,1,0
+6176166,"Wake Forest","Florida St.",0,3,0,1
+6176167,"Louisville","Boston College",3,1,1,0
+6176168,"Campbell","William & Mary",3,2,1,0
+6176171,"Tulsa","Rice",0,3,0,1
+6176172,"Coppin St.","UMES",3,2,1,0
+6176173,"Arizona","Washington St.",2,3,0,1
+6176174,"Arizona St.","Washington",3,1,1,0
+6176175,"North Ala.","Lipscomb",0,3,0,1
+6176176,"Davidson","George Washington",3,0,1,0
+6176177,"Morgan St.","Delaware St.",1,3,0,1
+6176178,"Georgia Tech","NC State",3,1,1,0
+6176179,"Central Ark.","Austin Peay",0,3,0,1
+6176180,"UCLA","Oregon",0,3,0,1
+6176181,"Elon","UNCW",2,3,0,1
+6176182,"Siena","Quinnipiac",1,3,0,1
+6176183,"Towson","Delaware",3,2,1,0
+6176185,"Auburn","Ole Miss",3,1,1,0
+6176186,"N.C. A&T","Hampton",3,0,1,0
+6176187,"UTSA","SMU",0,3,0,1
+6176188,"Fla. Atlantic","Temple",3,1,1,0
+6176189,"Tulane","North Texas",1,3,0,1
+6176190,"Kentucky","Tennessee",0,3,0,1
+6176192,"Arkansas","Texas A&M",3,1,1,0
+6176194,"Texas Southern","Ark.-Pine Bluff",3,0,1,0
+6176195,"Mississippi St.","Alabama",3,0,1,0
+6176196,"Hawaii","CSUN",3,0,1,0
+6176197,"Lafayette","Lehigh",3,1,1,0
+6176198,"Florida","Georgia",3,2,1,0
+6176199,"SFA","UT Arlington",3,0,1,0
+6176200,"Evansville","Chicago St.",0,3,0,1
+6176203,"Alcorn","Southern U.",0,3,0,1
+6176204,"Eastern Mich.","Central Mich.",2,3,0,1
+6176205,"Valparaiso","UIC",1,3,0,1
+6176206,"Belmont","Murray St.",3,2,1,0
+6176207,"Cleveland St.","Purdue Fort Wayne",3,1,1,0
+6176208,"IUPUI","Oakland",2,3,0,1
+6176209,"UIW","A&M-Corpus Christi",0,3,0,1
+6176210,"Youngstown St.","Wright St.",0,3,0,1
+6176211,"Southern Ind.","Eastern Ill.",1,3,0,1
+6176212,"Nevada","Fresno St.",2,3,0,1
+6176213,"Lamar University","Houston Christian",0,3,0,1
+6176214,"Robert Morris","Northern Ky.",0,3,0,1
+6176215,"Binghamton","Colgate",0,3,0,1
+6176216,"Tex. A&M-Commerce","Northwestern St.",3,2,1,0
+6176217,"McNeese","Nicholls",3,0,1,0
+6176218,"Southeastern La.","New Orleans",3,0,1,0
+6176219,"North Florida","Jacksonville",3,1,1,0
+6176220,"Ohio","Kent St.",3,0,1,0
+6176221,"Coppin St.","American",0,3,0,1
+6176222,"The Citadel","Western Caro.",3,0,1,0
+6176223,"Southern U.","Dillard",3,0,1,0
+6176224,"Austin Peay","Lipscomb",1,3,0,1
+6176225,"West Virginia","Kansas St.",0,3,0,1
+6176226,"St. John's (NY)","Seton Hall",3,1,1,0
+6176227,"FDU","Saint Peter's",3,0,1,0
+6176228,"Sacred Heart","UAlbany",0,3,0,1
+6176229,"Arkansas","Auburn",3,0,1,0
+6176230,"Notre Dame","Louisville",0,3,0,1
+6176231,"Florida","Texas A&M",2,3,0,1
+6176232,"Texas","BYU",3,1,1,0
+6176234,"UTEP","Jacksonville St.",3,0,1,0
+6176235,"Seattle U","UT Arlington",1,3,0,1
+6176236,"Gonzaga","San Diego",0,3,0,1
+6176237,"Utah Valley","SFA",0,3,0,1
+6176238,"ULM","South Alabama",0,3,0,1
+6176239,"Lindenwood","UT Martin",1,3,0,1
+6176240,"TCU","Texas Tech",3,0,1,0
+6176241,"James Madison","Texas St.",3,0,1,0
+6176242,"Wofford","Furman",3,0,1,0
+6176243,"Air Force","Boise St.",2,3,0,1
+6176244,"Western Mich.","Bowling Green",3,0,1,0
+6176245,"San Jose St.","Nevada",3,1,1,0
+6176246,"Akron","Kent St.",3,0,1,0
+6176247,"North Texas","Tulsa",1,3,0,1
+6176248,"Pacific","San Francisco",3,2,1,0
+6176249,"Georgia St.","Marshall",1,3,0,1
+6176253,"Northwestern St.","Lamar University",3,2,1,0
+6176255,"UIW","McNeese",1,3,0,1
+6176256,"Houston Christian","A&M-Corpus Christi",1,3,0,1
+6176257,"Nicholls","Southeastern La.",0,3,0,1
+6176258,"New Orleans","Tex. A&M-Commerce",0,3,0,1
+6176259,"UTRGV","Southern Utah",3,0,1,0
+6176260,"California Baptist","Tarleton St.",3,1,1,0
+6176261,"Saint Mary's (CA)","Pepperdine",0,3,0,1
+6176262,"Idaho St.","Eastern Wash.",1,3,0,1
+6176263,"North Dakota","Omaha",2,3,0,1
+6176264,"UCF","Oklahoma",3,0,1,0
+6176265,"South Dakota St.","Denver",1,3,0,1
+6176266,"North Dakota St.","St. Thomas (MN)",3,0,1,0
+6176267,"Colorado St.","San Diego St.",3,1,1,0
+6176268,"Portland","LMU (CA)",0,3,0,1
+6176269,"South Dakota","Kansas City",1,3,0,1
+6176270,"Long Beach St.","UC San Diego",3,0,1,0
+6176271,"Texas","BYU",3,1,1,0
+6176272,"NC State","Notre Dame",3,0,1,0
+6176273,"ULM","South Alabama",1,3,0,1
+6176274,"Georgia St.","Marshall",3,2,1,0
+6176275,"Virginia Tech","Georgia Tech",0,3,0,1
+6176276,"Mississippi St.","Tennessee",1,3,0,1
+6176277,"Lindenwood","UT Martin",3,1,1,0
+6176278,"Le Moyne","LIU",0,3,0,1
+6176279,"Stonehill","Sacred Heart",0,3,0,1
+6176280,"Morehead St.","Western Ill.",2,3,0,1
+6176281,"Saint Francis (PA)","FDU",3,1,1,0
+6176283,"UNI","Valparaiso",3,0,1,0
+6176284,"Arkansas St.","Louisiana",0,3,0,1
+6176285,"East Carolina","Fla. Atlantic",3,0,1,0
+6176286,"South Carolina St.","Coppin St.",0,3,0,1
+6176287,"Oregon","Washington",3,1,1,0
+6176288,"Temple","Tulane",3,2,1,0
+6176289,"Buffalo","Ohio",0,2,0,0
+6176290,"Coastal Carolina","App State",3,0,1,0
+6176291,"Southern Ill.","Evansville",3,1,1,0
+6176292,"Louisiana Tech","New Mexico St.",0,3,0,1
+6176293,"Eastern Ky.","North Ala.",3,1,1,0
+6176294,"TCU","Texas Tech",3,2,1,0
+6176295,"Belmont","Bradley",3,0,1,0
+6176296,"VCU","Duquesne",3,1,1,0
+6176297,"James Madison","Texas St.",3,1,1,0
+6176298,"Missouri St.","Indiana St.",3,1,1,0
+6176299,"Wofford","Samford",3,0,1,0
+6176300,"Wake Forest","Clemson",3,0,1,0
+6176301,"Creighton","St. John's (NY)",3,0,1,0
+6176302,"Montana","Montana St.",3,0,1,0
+6176303,"Rice","UTSA",3,0,1,0
+6176304,"Bethune-Cookman","Jackson St.",1,3,0,1
+6176306,"Holy Cross","Army West Point",0,3,0,1
+6176307,"Western Mich.","Bowling Green",3,0,1,0
+6176308,"Queens (NC)","FGCU",0,3,0,1
+6176309,"Drake","UIC",2,3,0,1
+6176310,"Youngstown St.","Green Bay",0,3,0,1
+6176312,"Eastern Mich.","Ball St.",0,3,0,1
+6176313,"NJIT","Binghamton",0,3,0,1
+6176314,"USC Upstate","Charleston So.",3,2,1,0
+6176315,"Winthrop","High Point",0,3,0,1
+6176317,"Akron","Kent St.",3,0,1,0
+6176318,"Tennessee St.","Southern Ind.",1,3,0,1
+6176319,"Ole Miss","South Carolina",3,2,1,0
+6176320,"Alabama A&M","Alabama St.",0,3,0,1
+6176321,"CSU Bakersfield","UC Davis",1,3,0,1
+6176322,"North Texas","Tulsa",2,3,0,1
+6176323,"CSUN","UC Riverside",2,3,0,1
+6176325,"Middle Tenn.","Liberty",3,0,1,0
+6176326,"SIUE","Southeast Mo. St.",0,3,0,1
+6176327,"ETSU","Chattanooga",1,3,0,1
+6176328,"Stanford","Arizona St.",3,0,1,0
+6176329,"Delaware St.","Howard",3,0,1,0
+6176331,"Gardner-Webb","Radford",3,0,1,0
+6176332,"NIU","Miami (OH)",3,2,1,0
+6176334,"Wright St.","Oakland",1,3,0,1
+6176335,"Robert Morris","Milwaukee",1,3,0,1
+6176336,"Murray St.","Illinois St.",2,3,0,1
+6176337,"N.C. Central","Morgan St.",3,2,1,0
+6176338,"Little Rock","Tennessee Tech",2,3,0,1
+6176339,"UMES","Norfolk St.",1,3,0,1
+6176340,"Sam Houston","FIU",0,3,0,1
+6176341,"Old Dominion","Ga. Southern",1,3,0,1
+6176342,"Kansas","Houston",3,2,1,0
+6176343,"Florida St.","North Carolina",3,0,1,0
+6176344,"SMU","Wichita St.",3,0,1,0
+6176345,"Southern California","Utah",3,2,1,0
+6176346,"Virginia","Syracuse",3,1,1,0
+6176347,"Dayton","Fordham",3,0,1,0
+6176348,"Loyola Maryland","Lehigh",3,1,1,0
+6176349,"Cal Poly","UC Irvine",3,2,1,0
+6176350,"UC Santa Barbara","Cal St. Fullerton",3,1,1,0
+6176351,"UCLA","Colorado",3,0,1,0
+6176352,"Pittsburgh","Boston College",3,0,1,0
+6176353,"North Dakota","St. Thomas (MN)",3,0,1,0
+6176354,"Villanova","Xavier",3,0,1,0
+6176355,"California","Arizona",3,1,1,0
+6176356,"Sacramento St.","Portland St.",3,1,1,0
+6176357,"Georgia","Kentucky",2,3,0,1
+6176359,"American","Lafayette",3,0,1,0
+6176360,"Georgetown","Butler",3,1,1,0
+6176361,"Bryant","UMBC",0,3,0,1
+6176362,"Navy","Bucknell",3,2,1,0
+6176363,"Oregon St.","Washington St.",0,3,0,1
+6176364,"Brown","Princeton",1,3,0,1
+6176365,"Yale","Penn",3,0,1,0
+6176366,"Davidson","Loyola Chicago",2,3,0,1
+6176367,"Cornell","Dartmouth",0,3,0,1
+6176368,"George Mason","Saint Louis",2,3,0,1
+6176369,"Columbia","Harvard",0,3,0,1
+6176370,"Long Beach St.","Hawaii",3,0,1,0
+6176371,"Kennesaw St.","Stetson",3,2,1,0
+6176372,"Miami (FL)","Duke",3,1,1,0
+6176373,"LSU","Missouri",3,1,1,0
+6176374,"Central Mich.","Toledo",1,3,0,1
+6176375,"Iona","Quinnipiac",1,3,0,1
+6176376,"Morehead St.","Western Ill.",3,0,1,0
+6176377,"Southeastern La.","Tex. A&M-Commerce",3,0,1,0
+6176378,"UTEP","Jacksonville St.",3,0,1,0
+6176379,"Dayton","Fordham",3,0,1,0
+6176380,"Seattle U","SFA",0,3,0,1
+6176381,"California Baptist","Abilene Christian",2,3,0,1
+6176382,"Gonzaga","LMU (CA)",0,3,0,1
+6176383,"Air Force","Utah St.",3,2,1,0
+6176384,"Pacific","Santa Clara",3,0,1,0
+6176385,"Colorado St.","UNLV",3,0,1,0
+6176386,"South Dakota","Denver",3,0,1,0
+6176387,"Pepperdine","San Francisco",3,0,1,0
+6176388,"Arkansas St.","Louisiana",1,3,0,1
+6176389,"East Carolina","Fla. Atlantic",1,3,0,1
+6176390,"New Mexico","Boise St.",3,1,1,0
+6176391,"Utah Valley","UT Arlington",0,3,0,1
+6176392,"Coastal Carolina","App State",3,1,1,0
+6176393,"Hofstra","Towson",0,3,0,1
+6176394,"Canisius","Niagara",1,3,0,1
+6176395,"Delaware","Col. of Charleston",1,3,0,1
+6176396,"Rice","UTSA",3,0,1,0
+6176397,"Saint Peter's","Marist",0,3,0,1
+6176398,"Idaho St.","Idaho",3,2,1,0
+6176399,"Houston Christian","Northwestern St.",3,0,1,0
+6176400,"Sam Houston","FIU",0,3,0,1
+6176401,"Nicholls","UIW",0,3,0,1
+6176402,"A&M-Corpus Christi","McNeese",3,0,1,0
+6176403,"Charlotte","Memphis",3,1,1,0
+6176404,"Kansas City","Oral Roberts",3,0,1,0
+6176405,"Portland","San Diego",0,3,0,1
+6176406,"Hampton","William & Mary",0,3,0,1
+6176407,"Stony Brook","N.C. A&T",3,2,1,0
+6176408,"Lamar University","New Orleans",0,3,0,1
+6176409,"UConn","Marquette",1,3,0,1
+6176410,"Providence","DePaul",0,3,0,1
+6176411,"Cal Poly","Cal St. Fullerton",3,1,1,0
+6176412,"Louisiana Tech","New Mexico St.",0,3,0,1
+6176413,"Iowa St.","Baylor",3,2,1,0
+6176414,"South Fla.","UAB",3,0,1,0
+6176415,"San Jose St.","Fresno St.",3,1,1,0
+6176417,"Youngstown St.","Milwaukee",1,3,0,1
+6176418,"Winthrop","Radford",3,1,1,0
+6176419,"Old Dominion","Ga. Southern",0,3,0,1
+6176421,"UNC Asheville","Charleston So.",1,3,0,1
+6176422,"Grand Canyon","Tarleton St.",3,0,1,0
+6176424,"SIUE","Southeast Mo. St.",3,2,1,0
+6176425,"UTRGV","Utah Tech",3,0,1,0
+6176426,"Troy","Southern Miss.",3,2,1,0
+6176427,"Florida A&M","Mississippi Val.",3,0,1,0
+6176428,"Murray St.","Bradley",3,0,1,0
+6176429,"Little Rock","Tennessee Tech",3,0,1,0
+6176430,"West Virginia","Chicago St.",3,2,1,0
+6176431,"Kansas","Houston",3,0,1,0
+6176432,"George Mason","Saint Louis",0,3,0,1
+6176433,"NIU","Miami (OH)",3,0,1,0
+6176434,"Manhattan","Fairfield",0,3,0,1
+6176435,"UNCW","Campbell",3,2,1,0
+6176436,"Buffalo","Ohio",3,1,1,0
+6176437,"Eastern Ky.","Central Ark.",3,0,1,0
+6176438,"Missouri St.","Evansville",3,0,1,0
+6176440,"Furman","Samford",3,2,1,0
+6176441,"Bellarmine","North Ala.",3,0,1,0
+6176442,"Eastern Mich.","Ball St.",0,3,0,1
+6176443,"USC Upstate","Presbyterian",1,3,0,1
+6176444,"Rider","Siena",3,1,1,0
+6176445,"CSU Bakersfield","UC Riverside",1,3,0,1
+6176446,"CSUN","UC Davis",1,3,0,1
+6176448,"Gardner-Webb","High Point",0,3,0,1
+6176449,"Wright St.","Cleveland St.",3,2,1,0
+6176450,"Robert Morris","Green Bay",1,3,0,1
+6176451,"Merrimack","Sacred Heart",1,3,0,1
+6176452,"Kansas St.","Cincinnati",1,3,0,1
+6176453,"Colgate","Army West Point",3,0,1,0
+6176454,"Southern Ill.","Indiana St.",3,1,1,0
+6176455,"Belmont","Illinois St.",0,3,0,1
+6176456,"VCU","Duquesne",3,1,1,0
+6176457,"Brown","Penn",3,0,1,0
+6176458,"Drake","Valparaiso",3,1,1,0
+6176460,"UNC Greensboro","Chattanooga",2,3,0,1
+6176461,"Le Moyne","FDU",0,3,0,1
+6176463,"Columbia","Dartmouth",2,3,0,1
+6176464,"Stonehill","Central Conn. St.",3,2,1,0
+6176465,"Saint Francis (PA)","LIU",0,3,0,1
+6176466,"UNI","UIC",3,1,1,0
+6176467,"Loyola Maryland","Bucknell",0,3,0,1
+6176468,"Western Caro.","Mercer",1,3,0,1
+6176469,"Lipscomb","North Florida",3,0,1,0
+6176470,"Austin Peay","Jacksonville",3,2,1,0
+6176471,"North Dakota St.","Omaha",2,3,0,1
+6176472,"Davidson","Loyola Chicago",0,3,0,1
+6176474,"UC San Diego","Hawaii",0,3,0,1
+6176475,"UC Santa Barbara","UC Irvine",3,0,1,0
+6176476,"Wyoming","San Diego St.",1,3,0,1
+6176477,"Villanova","Butler",0,3,0,1
+6176478,"Georgetown","Xavier",2,3,0,1
+6176479,"Purdue Fort Wayne","IUPUI",3,1,1,0
+6176480,"Elon","Northeastern",2,3,0,1
+6176481,"Navy","Lafayette",2,3,0,1
+6176482,"Northern Colo.","Northern Ariz.",3,2,1,0
+6178686,"Duquesne","Canisius",3,2,1,0
+6178687,"Delaware St.","Syracuse",3,0,1,0
+6178688,"Rider","N.C. A&T",0,3,0,1
+6178689,"Norfolk St.","George Washington",1,3,0,1
+6178690,"Virginia","Rutgers",2,3,0,1
+6178691,"Virginia","Wofford",1,3,0,1
+6191138,"Hawaii","Northwestern",3,2,1,0
+6191337,"UC Riverside","Oregon St.",0,3,0,1
+6191343,"SMU","Houston",1,3,0,1
+6191442,"Virginia Tech","East Carolina",2,3,0,1
+6191443,"Duquesne","Queens (NC)",0,3,0,1

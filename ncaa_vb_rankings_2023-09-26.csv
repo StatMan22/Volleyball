@@ -1,0 +1,349 @@
+"rank","teams","pts"
+1,"Nebraska",0.641
+2,"Wisconsin",0.627
+3,"Pittsburgh",0.625
+4,"Oregon",0.62
+5,"Tennessee",0.615
+6,"Louisville",0.612
+7,"Arizona St.",0.61
+8,"Stanford",0.608
+9,"BYU",0.606
+10,"Georgia Tech",0.603
+11,"Texas",0.6
+12,"Arkansas",0.597
+13,"Penn St.",0.597
+14,"Minnesota",0.595
+15,"Florida",0.593
+16,"Kansas",0.592
+17,"Texas A&M",0.588
+18,"Dayton",0.587
+19,"Wright St.",0.586
+20,"Kentucky",0.583
+21,"Houston",0.58
+22,"Creighton",0.58
+23,"Western Ky.",0.579
+24,"Indiana",0.578
+25,"TCU",0.578
+26,"Utah St.",0.578
+27,"Purdue",0.577
+28,"Washington St.",0.577
+29,"UCF",0.575
+30,"Baylor",0.574
+31,"Marquette",0.573
+32,"Iowa St.",0.572
+33,"SMU",0.571
+34,"Florida St.",0.57
+35,"UC Santa Barbara",0.569
+36,"LMU (CA)",0.567
+37,"Ohio St.",0.567
+38,"Western Mich.",0.566
+39,"Hawaii",0.566
+40,"San Diego",0.566
+41,"California",0.565
+42,"Southern California",0.563
+43,"Georgia",0.563
+44,"Drake",0.562
+45,"Long Beach St.",0.562
+46,"Pepperdine",0.561
+47,"Kansas St.",0.561
+48,"Northwestern",0.56
+49,"UCLA",0.559
+50,"Washington",0.559
+51,"Colorado",0.557
+52,"Auburn",0.557
+53,"UNI",0.557
+54,"Miami (FL)",0.555
+55,"NC State",0.554
+56,"Michigan St.",0.554
+57,"LSU",0.554
+58,"Rice",0.554
+59,"Duke",0.553
+60,"SFA",0.551
+61,"South Alabama",0.549
+62,"Ga. Southern",0.549
+63,"Wichita St.",0.547
+64,"Utah",0.546
+65,"Colorado St.",0.546
+66,"Mississippi St.",0.546
+67,"Grand Canyon",0.545
+68,"Ohio",0.542
+69,"Wake Forest",0.542
+70,"Maryland",0.541
+71,"Weber St.",0.541
+72,"Navy",0.541
+73,"Pacific",0.541
+74,"Portland St.",0.541
+75,"UNLV",0.54
+76,"UTEP",0.54
+77,"Cincinnati",0.54
+78,"East Carolina",0.54
+79,"North Carolina",0.539
+80,"Notre Dame",0.538
+81,"Oklahoma",0.538
+82,"Boston College",0.538
+83,"James Madison",0.538
+84,"Arizona",0.536
+85,"Eastern Ill.",0.535
+86,"Virginia Tech",0.534
+87,"Buffalo",0.534
+88,"Ole Miss",0.533
+89,"Eastern Ky.",0.532
+90,"Colgate",0.532
+91,"UIC",0.532
+92,"Towson",0.531
+93,"Troy",0.531
+94,"Bowling Green",0.531
+95,"FGCU",0.531
+96,"South Carolina",0.531
+97,"Loyola Chicago",0.53
+98,"High Point",0.53
+99,"New Mexico St.",0.529
+100,"Missouri",0.529
+101,"New Mexico",0.529
+102,"Illinois",0.528
+103,"Lipscomb",0.528
+104,"Southeastern La.",0.527
+105,"Xavier",0.527
+106,"Texas St.",0.527
+107,"Clemson",0.527
+108,"North Texas",0.525
+109,"Davidson",0.525
+110,"UC Davis",0.525
+111,"Michigan",0.525
+112,"Tulsa",0.525
+113,"App State",0.525
+114,"Liberty",0.525
+115,"Sacramento St.",0.524
+116,"Wyoming",0.523
+117,"UMBC",0.523
+118,"Alabama",0.523
+119,"Oregon St.",0.523
+120,"Wofford",0.522
+121,"Cal Poly",0.522
+122,"San Diego St.",0.521
+123,"Ball St.",0.521
+124,"Middle Tenn.",0.52
+125,"Southern Miss.",0.52
+126,"Milwaukee",0.52
+127,"Villanova",0.52
+128,"South Fla.",0.52
+129,"San Jose St.",0.519
+130,"UTSA",0.519
+131,"Texas Tech",0.519
+132,"Temple",0.519
+133,"Northern Colo.",0.518
+134,"San Francisco",0.518
+135,"Kennesaw St.",0.518
+136,"Saint Mary's (CA)",0.518
+137,"Brown",0.518
+138,"Boise St.",0.518
+139,"Omaha",0.518
+140,"Rutgers",0.517
+141,"Butler",0.517
+142,"North Dakota St.",0.516
+143,"UTRGV",0.516
+144,"Louisiana",0.516
+145,"St. John's (NY)",0.515
+146,"Delaware",0.515
+147,"Iowa",0.514
+148,"North Florida",0.513
+149,"Air Force",0.513
+150,"UT Arlington",0.513
+151,"Georgetown",0.513
+152,"Coastal Carolina",0.512
+153,"Santa Clara",0.512
+154,"South Dakota",0.511
+155,"Northern Ky.",0.511
+156,"Fresno St.",0.511
+157,"Kansas City",0.511
+158,"DePaul",0.511
+159,"California Baptist",0.51
+160,"UC San Diego",0.51
+161,"Chicago St.",0.51
+162,"Coppin St.",0.509
+163,"Arkansas St.",0.508
+164,"West Virginia",0.508
+165,"Virginia",0.508
+166,"Yale",0.507
+167,"Hofstra",0.507
+168,"Valparaiso",0.507
+169,"Montana St.",0.506
+170,"Southeast Mo. St.",0.506
+171,"Old Dominion",0.506
+172,"Princeton",0.506
+173,"FIU",0.505
+174,"New Hampshire",0.504
+175,"Campbell",0.504
+176,"Nevada",0.504
+177,"Tarleton St.",0.503
+178,"Seton Hall",0.503
+179,"Col. of Charleston",0.503
+180,"Houston Christian",0.503
+181,"The Citadel",0.502
+182,"Stetson",0.502
+183,"Southern Ill.",0.502
+184,"Fla. Atlantic",0.501
+185,"UC Irvine",0.5
+186,"Abilene Christian",0.5
+187,"North Ala.",0.498
+188,"Utah Valley",0.498
+189,"Utah Tech",0.497
+190,"Bradley",0.496
+191,"Jacksonville",0.496
+192,"Evansville",0.495
+193,"CSUN",0.495
+194,"Army West Point",0.494
+195,"Tulane",0.494
+196,"Central Ark.",0.494
+197,"Montana",0.493
+198,"Toledo",0.493
+199,"SIUE",0.492
+200,"Murray St.",0.492
+201,"Harvard",0.492
+202,"William & Mary",0.492
+203,"Fordham",0.492
+204,"Morehead St.",0.492
+205,"Denver",0.49
+206,"Saint Louis",0.49
+207,"CSU Bakersfield",0.489
+208,"VCU",0.489
+209,"Missouri St.",0.489
+210,"Cleveland St.",0.489
+211,"Fairfield",0.488
+212,"A&M-Corpus Christi",0.488
+213,"Marshall",0.487
+214,"Chattanooga",0.487
+215,"Delaware St.",0.487
+216,"NIU",0.487
+217,"American",0.487
+218,"Northwestern St.",0.486
+219,"Akron",0.486
+220,"Southern Utah",0.486
+221,"Oakland",0.486
+222,"Mercer",0.485
+223,"Loyola Maryland",0.484
+224,"Furman",0.484
+225,"Central Mich.",0.482
+226,"UNCW",0.482
+227,"Samford",0.482
+228,"UAB",0.482
+229,"St. Thomas (MN)",0.481
+230,"Charlotte",0.481
+231,"George Mason",0.481
+232,"Howard",0.481
+233,"Binghamton",0.481
+234,"Florida A&M",0.481
+235,"Lehigh",0.48
+236,"Austin Peay",0.48
+237,"Western Caro.",0.48
+238,"George Washington",0.479
+239,"Portland",0.478
+240,"UIW",0.478
+241,"Eastern Wash.",0.477
+242,"Northeastern",0.477
+243,"Winthrop",0.477
+244,"Sam Houston",0.477
+245,"Memphis",0.477
+246,"South Dakota St.",0.475
+247,"Bryant",0.473
+248,"McNeese",0.473
+249,"Quinnipiac",0.473
+250,"USC Upstate",0.473
+251,"Illinois St.",0.473
+252,"Providence",0.472
+253,"Lindenwood",0.472
+254,"Duquesne",0.472
+255,"Southern Ind.",0.472
+256,"Seattle U",0.47
+257,"Gonzaga",0.47
+258,"Bucknell",0.47
+259,"Northern Ariz.",0.469
+260,"Stony Brook",0.469
+261,"Green Bay",0.468
+262,"Gardner-Webb",0.467
+263,"Western Ill.",0.467
+264,"Alabama St.",0.467
+265,"Charleston So.",0.466
+266,"UConn",0.466
+267,"Louisiana Tech",0.466
+268,"N.C. A&T",0.465
+269,"Idaho St.",0.465
+270,"Tennessee Tech",0.464
+271,"Belmont",0.464
+272,"Kent St.",0.463
+273,"Robert Morris",0.463
+274,"Youngstown St.",0.462
+275,"Tennessee St.",0.462
+276,"Eastern Mich.",0.462
+277,"Prairie View",0.461
+278,"Indiana St.",0.461
+279,"Jacksonville St.",0.46
+280,"ULM",0.46
+281,"North Dakota",0.46
+282,"IUPUI",0.459
+283,"Miami (OH)",0.459
+284,"ETSU",0.456
+285,"UMES",0.456
+286,"Saint Francis (PA)",0.455
+287,"Iona",0.455
+288,"Dartmouth",0.455
+289,"Bellarmine",0.455
+290,"Elon",0.454
+291,"Penn",0.453
+292,"UT Martin",0.453
+293,"Cal St. Fullerton",0.452
+294,"UC Riverside",0.452
+295,"Oral Roberts",0.451
+296,"Cornell",0.451
+297,"Georgia St.",0.451
+298,"UNC Asheville",0.45
+299,"Lafayette",0.449
+300,"Purdue Fort Wayne",0.449
+301,"Canisius",0.448
+302,"FDU",0.447
+303,"Little Rock",0.445
+304,"Tex. A&M-Commerce",0.445
+305,"LIU",0.445
+306,"Queens (NC)",0.444
+307,"Sacred Heart",0.444
+308,"Marist",0.442
+309,"Presbyterian",0.441
+310,"Jackson St.",0.441
+311,"NJIT",0.44
+312,"Rhode Island",0.438
+313,"Grambling",0.438
+314,"Rider",0.438
+315,"UAlbany",0.437
+316,"Nicholls",0.437
+317,"Syracuse",0.437
+318,"Radford",0.433
+319,"Holy Cross",0.432
+320,"N.C. Central",0.432
+321,"Norfolk St.",0.431
+322,"Columbia",0.431
+323,"UNC Greensboro",0.43
+324,"Idaho",0.421
+325,"Niagara",0.421
+326,"Lamar University",0.419
+327,"Southern U.",0.415
+328,"Stonehill",0.411
+329,"Morgan St.",0.41
+330,"New Orleans",0.41
+331,"Siena",0.41
+332,"Alabama A&M",0.406
+333,"Merrimack",0.403
+334,"Central Conn. St.",0.398
+335,"Bethune-Cookman",0.392
+336,"Manhattan",0.381
+337,"Texas Southern",0.378
+338,"Bowie St.",0.37
+339,"Saint Peter's",0.364
+340,"Le Moyne",0.357
+341,"South Carolina St.",0.357
+342,"Ark.-Pine Bluff",0.351
+343,"Hampton",0.333
+344,"Alcorn",0.332
+345,"Ark.-Monticello",0.312
+346,"Mississippi Val.",0.306
+347,"LeMoyne-Owen",0.253
+348,"Lane",0.253
